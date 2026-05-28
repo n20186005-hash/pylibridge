@@ -1,0 +1,146 @@
+arched-bridge-of-portaikos-river-at-pyli
+
+
+我们网站是
+XXXXXXXXXX
+检查一遍看下是否有错误
+
+
+你正在用（Next.js开发）
+为一个新景点【 Arched Bridge of Portaikos River at Pyli 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+希腊
+色萨利大区	Arched Bridge of Portaikos River at Pyli	
+Arched Bridge of Portaikos River at Pyli
+Τοξωτό Γεφύρι Πορταϊκού Ποταμού Πύλης
+4.8(7,235)
+古迹地标
+22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας, Pili 420 32希腊
++302431076647
+FJ62+65 皮利 希腊
+https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\希腊\arched-bridge-of-portaikos-river-at-pyli\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+希腊国家旅游组织 (GNTO)
+https://www.visitgreece.gr/
+色萨利大区政府
+https://www.pthes.gov.gr/
+皮利市政府
+https://dimospylis.gr/
+特里卡拉古物局
+https://www.culture.gov.gr/el/SitePages/default.aspx
+希腊国家考古地籍系统
+https://www.arxaiologikoktimatologio.gov.gr/
+
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+希腊语
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+希腊
+色萨利大区	Arched Bridge of Portaikos River at Pyli	
+Arched Bridge of Portaikos River at Pyli
+Τοξωτό Γεφύρι Πορταϊκού Ποταμού Πύλης
+4.8(7,235)
+古迹地标
+22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας, Pili 420 32希腊
++302431076647
+FJ62+65 皮利 希腊
+https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+1. 国家级 (National Level)：希腊国家旅游组织 (GNTO)
+作为国家最高级别的旅游推广实体，负责希腊全国特色历史遗迹（如传统石桥建筑群）的宏观统筹与对外展示，提供国家级的旅游背书。
+
+机构： 希腊国家旅游组织 (Visit Greece)
+
+官方网址： visitgreece.gr
+
+2. 大区级 (Regional Level)：色萨利大区政府
+色萨利大区（Region of Thessaly）是希腊一级的行政区划。大区政府统筹管辖特里卡拉州（Trikala，皮利市所在州）的区域文旅发展战略与跨市级的基础设施资源分配。
+
+机构： 色萨利大区政府 (Region of Thessaly / Περιφέρεια Θεσσαλίας)
+
+官方网址： thessaly.gov.gr
+
+3. 市级 (Municipal Level)：皮利市政府
+皮利市政厅是该石拱桥最直接的属地行政管理单位。市政网站详细梳理了辖区内的文旅资产，并在其官方导览板块重点收录了这座由圣维萨里翁（St. Vissarion）建造的标志性拱桥的地方背景档案。
+
+机构： 皮利市政府 (Municipality of Pyli / Δήμος Πύλης)
+
+官方网址： dimospilis.gr
+
+4. 地方专管机构级 (Specific Authority)：特里卡拉古物局
+对于这座具有500多年历史的石桥，其日常建筑结构监测、修缮资金评估与遗产本体管理，由希腊文化部直属派驻到该区域的专管部门直接负责执行。
+
+机构： 希腊文化部 - 特里卡拉古物局 (Ephorate of Antiquities of Trikala / Εφορεία Αρχαιοτήτων Τρικάλων)
+
+官方网址： culture.gov.gr （作为国家文化部直属的区域机构，该局的行政与档案管理挂靠于希腊文化部政务主站的“地方古物局”名录下）
+
+5. 专业遗产数据库 (Heritage Database)：希腊国家考古地籍系统
+作为希腊目前最权威的官方文物与遗产 GIS 数据库，该石拱桥作为受国家保护的法定文物，其精确的数字测绘、保护红线边界及法定评级等最严谨参数，均以此数据库的登记档案为准。
+
+机构： 希腊文化部 - 考古地籍与空间信息局
+
+官方网址： arxaiologikoktimatologio.gov.gr
+
+基层政务网站UI提示：与您之前了解到的情况类似，皮利市的官方网站（dimospilis.gr）属于标准的欧洲基层政务建设体系，视觉交互体验较为复古传统。但它属于经希腊内政部认证的纯正官方政府节点，您可以100%放心提取其作为官方参考链接。
+
+
+
+
