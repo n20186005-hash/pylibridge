@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "title": "Dingli Cliffs – Mdina, Malta",
+    "description": "Gwida sħiħa għal Dingli Cliffs f'Malta. Sikta l-post, il-veduti, l-aċċess, u l-informazzjoni għall-viżitanti."
+  },
+  "header": {
+    "home": "Id-Dar",
+    "gallery": "Galleria",
+    "reviews": "Fehmiet",
+    "map": "Mappa",
+    "backToHome": "Lura lid-Dar"
+  },
+  "hero": {
+    "title": "Dingli Cliffs",
+    "subtitle": "Attrazzjoni Naturali · Malta",
+    "rating": "4.5",
+    "reviewCount": "9,185 fehmiet",
+    "type": "Mogħdiet Naturali",
+    "openMaps": "Ara fuq Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
+  },
+  "intro": {
+    "title": "Skopri d-Dingli Cliffs",
+    "description": "Id-Dingli Cliffs huma l-ogħla punt naturali f'Malta, b'altitudni ta' madwar 253 metru 'l fuq mil-livell tal-baħar. Jinsabu fil-parti tal-punent tal-gżira, ħdejn il-villaġġ ta' Dingli, u joffru veduti spettakolari tal-baħar u tal-kosta. Dan il-post huwa magħruf għall-panorama tiegħu, il-fażanatura, u l-żoni naturali protetti.",
+    "visitGuide": {
+      "title": "Temiżuri għaż-Żjara",
+      "items": [
+        "L-aħjar ħin biex iżżur huma l-żiffa jew l-istaġun tan-niżla tal-weraq billi t-temp huwa pjaċevoli.",
+        "Fil-ġimgħa ta' filgħaxija, tingħażel il-ħin qabel il-niżla tax-xemx għall-veduti l-isbaħ.",
+        "Iġbor żraben komdi għad-dawrien fuq il-passiġġati naturali.",
+        "Ħu il-ma u l-protezzjoni tax-xemx speċjalment matul is-sajf."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti ewlenin",
+      "items": [
+        "L-ogħla punt f'Malta",
+        "Panorama mill-aqwa tal-baħar",
+        "Żona protetta Natura 2000",
+        "Post ideali għall-osservazzjoni tal-istilel"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Dwar id-Dingli Cliffs",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "Ġeografija u Għoli",
+        "content": "Id-Dingli Cliffs jinsabu fil-Lbiċ ta' Malta, b'altitudni ta' madwar 253 metru 'l fuq mil-livell tal-baħar. Huma l-ogħla punt tal-gżira u joffru veduti vasti lejn il-Baħar Mediterran."
+      },
+      {
+        "id": "ecology",
+        "title": "Ekoloġija u Qbieli",
+        "content": "L-irdumijiet huma parti miż-żona protetta Natura 2000. Huma jospitaw pjanti indiġeni u speċijiet ta' għasafar migratorji. Din iż-żona hija importanti għall-bijodiversità ta' Malta."
+      },
+      {
+        "id": "cultural",
+        "title": "Sinifikat Kulturali",
+        "content": "Id-Dingli Cliffs għandhom sinifikat kulturali fil-mitoloġija Maltija. Jingħad li l-gżira ta' Filfla, li tinsab 'il barra mill-kosta, kienet tinżamm minn ġganti fil-leġġendi tal-imgħoddi."
+      },
+      {
+        "id": "protection",
+        "title": "Protezzjoni u Konservazzjoni",
+        "content": "L-irdumijiet huma ġestiti mill-Awtorità għall-Ambjent u r-Riżorsi (ERA) u huma elenkati fil-katalgu nazzjonali tal-proprjetà kulturali (NICPMI). Huma protetti minn żvilupp eċċessiv."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazzjoni Bażika",
+    "officialName": "Isem Uffiċjali",
+    "officialNameValue": "Dingli Cliffs",
+    "type": "Tip ta' Attrazzjoni",
+    "typeValue": "Mogħdiet Naturali / Għoli",
+    "country": "Pajjiż",
+    "countryValue": "Malta",
+    "city": "Belt / Raħal",
+    "cityValue": "Dingli (ħdejn Mdina)",
+    "googleRating": "Rating fuq Google",
+    "googleRatingValue": "4.5 (9,185)",
+    "address": "Indirizz",
+    "addressValue": "V92P+V45, Dingli, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "phone": "Telefon",
+    "phoneValue": "+356 2145 6060"
+  },
+  "hours": {
+    "title": "Ħinijiet ta' Żjara",
+    "park": "Aċċess",
+    "parkTime": "Miftuħ 24 siegħa, is-sena kollha",
+    "bestTime": "L-Aħjar Ħin biex Tiżżur",
+    "bestTimeSpring": "Rebbiegħa: Temp pjaċevoli, pjanti jkun ffullieri",
+    "bestTimeSummer": "Sajf: Iktar frisk filgħodu u filgħaxija, evita n-noħla",
+    "bestTimeAutumn": "Harifa: Temp ħlejvi, ideali għall-mixja",
+    "bestTimeWinter": "Xitwa: Inqas turisti, veduti sħaħ tan-natura",
+    "tip": "M'hemmx ħlas għax-xkupilja. Huwa rakkomandat iżżur waqt iż-żiffa biex tar l-istilel jew il-ġranet."
+  },
+  "tickets": {
+    "title": "Informazzjoni dwar id-Dħul",
+    "park": "Żjara fil-post",
+    "parkPrice": "B'xejn għall-pubbliku",
+    "parking": "Parkeġġ",
+    "parkingPrice": "Parkeġġ pubbliku b'xejn disponibbli ħdejn iż-żona",
+    "guided": "Tours Gwidati",
+    "guidedPrice": "Disponibbli minn operaturi tat-turiżmu lokali"
+  },
+  "transport": {
+    "title": "Kif Wasalna Hawn",
+    "fromCenter": "Miċ-Ċentru (Mdina/Rabat)",
+    "fromCenterDesc": "Distanza ta' madwar 3km minn Mdina. Tista' tilħaq bil-karozza tal-linja 201 jew 202, jew bil-karozza privata.",
+    "fromStation": "Mill-Istazzjon tal-Karozzi tal-Linja",
+    "fromStationDesc": "Il-linja 201 minn Valletta/Blaquière jew 202 minn Sliema/Rabat.",
+    "fromAirport": "Mill-Ajruport",
+    "fromAirportDesc": "Distanza ta' madwar 12km. Huwa rakkomandat li tieħu taxi jew karozza tal-kiri sa Dingli.",
+    "publicTransport": "Trasport Pubbliku",
+    "publicTransportDesc": "Il-linji 201 u 202 jieqfu ħdejn Dingli Village.",
+    "walking": "Mixja",
+    "walkingDesc": "Kapuljat minn Dingli Village saċ-Cliffs fi ftit minuti.",
+    "driving": "Sejħa",
+    "drivingDesc": "Parking disponibbli ħdejn iż-żona tal-irdumijiet."
+  },
+  "route": {
+    "title": "Rotta Rakkomandata",
+    "overview": "Saħħa mixja mal-irdumijiet u gawdi l-veduti naturalistiti.",
+    "steps": [
+      "Ibda mill-parking ħdejn iċ-ċentru ta' Dingli Village",
+      "Mixja tul il-passiġġata prinċipali mal-irdumijiet",
+      "Resaq fil-punt fejn hemm il-veduta tal-aqwa tal-baħar Mediterran",
+      "Esplora ż-żona tal-Maqluba (fossa kollassata)",
+      "Imla l-ħin fil-ġdid bid-dawl tax-xemx li ma jinbidel"
+    ]
+  },
+  "photoSpots": {
+    "title": "L-Aqwa Postijiet għall-Foti",
+    "spots": [
+      {
+        "title": "Il-Punt Prinċipali tal-Veduta",
+        "description": "Il-post fejn tista' tieħu l-aktar foti klassiċi tal-irdumijiet u l-baħar.",
+        "location": "Ċentru prinċipali",
+        "image": "/gallery/dingli-cliffs (1).jpg"
+      },
+      {
+        "title": "Ras id-Dingli fil-Żiffa",
+        "description": "Post ideali għall-osservazzjoni tal-istilel u l-kwiet tan-natura.",
+        "location": "Barra mill-villaġġ",
+        "image": "/gallery/dingli-cliffs (2).jpg"
+      },
+      {
+        "title": "Maqluba sinkhole",
+        "description": "Fenomenu ġeoloġiku uniku fil-viċinanza ta' Dingli.",
+        "location": "Qrib id-Dingli Cliffs",
+        "image": "/gallery/dingli-cliffs (3).jpg"
+      },
+      {
+        "title": "Panorama fil-Għoli",
+        "description": "Ix-xaqlib tal-irdumijiet u l-baħar blu fil-bogħod.",
+        "location": "Mixja tal-irdumijiet",
+        "image": "/gallery/dingli-cliffs (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galleria tal-Fotografiji",
+    "subtitle": "L-Ogħla Veduti f'Malta",
+    "captions": [
+      "Panorama tal-irdumijiet",
+      "Il-baħar Mediterran minn fuq",
+      "Xdawq fil-żona naturali",
+      "Il-pedala tal-maqluba",
+      "Il-kosta tal-punent ta' Malta",
+      "Pjanti indiġeni fl-irdumijiet",
+      "Il-ġimgħa ta' Dingli",
+      "Veduta ta' Filfla",
+      "Ix-xemx tinżel fuq l-irdumijiet",
+      "Il-wiċċ tal-baħar abjad",
+      "Il-pjanura fil-qrib",
+      "Il-ħitan tal-ġebel naturali",
+      "Għasafar li jgħixu fl-irdumijiet",
+      "Il-lejl fuq id-Dingli Cliffs"
+    ],
+    "viewAll": "Ara fuq Google Maps",
+    "showAll": "Uri l-Fotografiji Kollha",
+    "showLess": "Uri Inqas"
+  },
+  "reviews": {
+    "title": "Fehmiet viżitanti",
+    "declaration": "Il-fehmiet jistgħu jinħarġu permezz ta' Google Maps.",
+    "moreReviews": "Ara iktar fehmiet fuq Google Maps",
+    "items": [
+      {
+        "name": "Joseph C.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Post inkredibbli! L-ogħla punt f'Malta b'veduti spettakolari. Nirrakkomanda tżur fil-ġimgħa ta' filgħaxija."
+      },
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Qattajt mal-ġenituri tiegħi hawn u kien esċellenti. Post kalm u rilassanti, perfett għaż-żjara tal-familja."
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "text": "Post sbieħ ħafna għall-mixi. Il-veduti huma superjuri. Għandi biss ftit ta' diffikultà biex insib parkeġġ fil-ġimgħa."
+      },
+      {
+        "name": "Elena S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Għaż-żjara ta' Malta, din hija waħda mill-aktar attrazzjonijiet naturali li ma għandekx titlef. Is-siġar u l-baħar huma romantiċi ħafna."
+      },
+      {
+        "name": "Mark A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Kont hawn għall-osservazzjoni tal-istilel u kienet esperjenza unika. L-ebda trinqwità tal-belt, biss iċ-ċieli u l-baħar."
+      },
+      {
+        "name": "Claire B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Post perfett għall-picnic fil-ġimgħa. Iġbor ikel minn ħdejn u gawdi l-veduta."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Pożizzjoni fuq il-Mappa",
+    "subtitle": "V92P+V45, Dingli, Malta",
+    "openMaps": "Ara fuq Google Maps"
+  },
+  "footer": {
+    "brandName": "Dingli Cliffs",
+    "brandSubtitle": "Attrazzjoni Naturali · Malta",
+    "rights": "© 2026 Proġett Indipendenti tat-Turiżmu · Drittijiet Riservati.",
+    "privacy": "Politika tal-Privatezza",
+    "terms": "Termini tas-Servizz",
+    "cookies": "Impostazzjonijiet tal-Kookies",
+    "officialResourcesTitle": "Riżorsi u Informazzjoni Uffiċjali",
+    "officialLinks": {
+      "era": "Malta Environment & Resources Authority",
+      "visitmalta": "Malta Tourism Authority",
+      "dingli": "Dingli Local Council",
+      "natura2000": "Natura 2000 Network",
+      "nicpmi": "NICPMI Cultural Inventory",
+      "pa": "Planning Authority Malta"
+    },
+    "disclaimer": "Din il-websajt hija proġett indipendenti ta' informazzjoni tat-turiżmu. M'aħniex affiljati mar-rest ġvernattiv jew aġenziji uffiċjali."
+  },
+  "officialManagement": {
+    "title": "Dwar id-Dingli Cliffs",
+    "text": "Id-Dingli Cliffs huma ġestiti u protetti mill-Awtorità għall-Ambjent u r-Riżorsi (ERA) ta' Malta. Iż-żona hija elenkata bħala sit protett fil-katalgu nazzjonali u fil-lista Natura 2000."
+  },
+  "privacy": {
+    "title": "Politika tal-Privatezza",
+    "lastUpdated": "L-aħħar aġġornament: Mejju 2026",
+    "sections": [
+      {
+        "heading": "Ġbir ta' Informazzjoni",
+        "content": "Meta żżur is-sit elettroniku tagħna, nistgħu niġbru awtomatikament informazzjoni bażika dwar it-tagħmir, il-browser, u l-imġiba tal-browsing tiegħek biex nipprovdu esperjenza tal-utent aħjar. Din l-informazzjoni ma fihiex l-identità personali tiegħek."
+      },
+      {
+        "heading": "Użu tal-Cookies",
+        "content": "Aħna nużaw il-cookies biex nanalizzaw it-traffiku tas-sit elettroniku u nottimizzaw il-kontenut tal-paġna. Tista' timmaniġġja l-preferenzi tiegħek fi kwalunkwe ħin permezz tal-għażla tal-Immaniġġjar tal-Cookies fil-qiegħ tas-sit tagħna."
+      },
+      {
+        "heading": "Sigurtà u Protezzjoni tad-Dejta",
+        "content": "Aħna impenjati li nipproteġu s-sigurtà tad-dejta privata tiegħek u mhux se nbiegħu, nikru, jew ninnegozjaw id-dejta tal-browsing tiegħek ma' organizzazzjonijiet kummerċjali ta' partijiet terzi."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini tas-Servizz",
+    "lastUpdated": "L-aħħar aġġornament: Mejju 2026",
+    "sections": [
+      {
+        "heading": "Kontenut u Użu tas-Sit Elettroniku",
+        "content": "Dan is-sit elettroniku jipprovdi informazzjoni dwar l-ivvjaġġar, it-trasport, u l-istorja dwar l-Irdumijiet ta' Dingli. Il-kontenut kollu huwa biss għal referenza. Il-ħinijiet tal-ftuħ attwali u l-informazzjoni dwar l-attrazzjoni jistgħu jinbidlu fi kwalunkwe ħin; jekk jogħġbok irreferi għall-avviżi uffiċjali."
+      },
+      {
+        "heading": "Proprjetà Intellettwali",
+        "content": "It-test, l-immaġini, u d-disinji f'dan is-sit elettroniku huma protetti mid-drittijiet tal-awtur. Mingħajr permess bil-miktub espliċitu, ħadd ma jista' juża l-kontenut tas-sit elettroniku għal skopijiet kummerċjali."
+      },
+      {
+        "heading": "Dikjarazzjoni ta' Ċaħda",
+        "content": "Aħna nistinkaw biex niżguraw l-eżattezza u l-puntwalità tal-informazzjoni, iżda aħna ma nassumu l-ebda responsabbiltà legali għal dewmien fl-ivvjaġġar jew telf ikkawżat direttament jew indirettament mill-użu tal-informazzjoni pprovduta fuq dan is-sit elettroniku."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Settings tal-Cookies",
+    "description": "Immaniġġja l-preferenzi tal-cookies tiegħek.",
+    "essential": {
+      "title": "Cookies Essenzjali",
+      "description": "Meħtieġa għall-funzjonalità bażika tas-sit elettroniku u ma jistgħux jiġu diżattivati.",
+      "badge": "Dejjem Attivi"
+    },
+    "analytics": {
+      "title": "Analitika",
+      "description": "Jgħinuna nifhmu l-imġiba tal-viżitaturi u ntejbu s-sit elettroniku."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Użati għat-traċċar bejn is-siti u biex jitwasslu reklami personalizzati."
+    },
+    "save": "Issejvja l-Preferenzi",
+    "saved": "Il-Preferenzi Ġew Issejvjati!"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "title": "Acantilados di Dingli (Dingli Cliffs) – Mdina, Malta",
+    "description": "Guía de viaje completa a los Acantilados de Dingli en Malta. Descubra esta atracción natural, incluyendo ubicación, vistas, acceso e información para visitantes."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Acantilados de Dingli",
+    "subtitle": "Atracción Natural · Malta",
+    "rating": "4.5",
+    "reviewCount": "9,185 opiniones",
+    "type": "Acantilados Naturales",
+    "openMaps": "Ver en Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
+  },
+  "intro": {
+    "title": "Descubre los Acantilados de Dingli",
+    "description": "Los Acantilados de Dingli son el punto natural más alto de Malta, con una altitud de aproximadamente 253 metros sobre el nivel del mar. Situados en la parte occidental de la isla cerca del pueblo de Dingli, ofrecen vistas espectaculares del mar y la costa. Este lugar es famoso por su panorama, atardeceres y áreas naturales protegidas.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "La mejor época para visitar es la primavera o el otoño cuando el clima es agradable.",
+        "Durante la semana al atardecer, elija la hora antes de la puesta del sol para las mejores vistas.",
+        "Lleve zapatos cómodos para caminar por senderos naturales.",
+        "Lleve agua y protección solar, especialmente durante el verano."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Punto más alto de Malta",
+        "Panorama marino impresionante",
+        "Área protegida Natura 2000",
+        "Lugar ideal para observar las estrellas"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre los Acantilados de Dingli",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "Geografía y Elevación",
+        "content": "Los Acantilados de Dingli se encuentran en el suroeste de Malta, con una altitud de aproximadamente 253 metros sobre el nivel del mar. Son el punto más alto de la isla y ofrecen amplias vistas del Mar Mediterráneo."
+      },
+      {
+        "id": "ecology",
+        "title": "Ecología y Biodiversidad",
+        "content": "Los acantilados forman parte del área protegida Natura 2000. Albergan plantas autóctonas y especies de aves migratorias. Esta zona es importante para la biodiversidad de Malta."
+      },
+      {
+        "id": "cultural",
+        "title": "Significado Cultural",
+        "content": "Los Acantilados de Dingli tienen un significado cultural en la mitología maltesa. Se dice que la isla de Filfla, situada frente a la costa, fue sostenida por gigantes en leyendas del pasado."
+      },
+      {
+        "id": "protection",
+        "title": "Protección y Conservación",
+        "content": "Los acantilados son gestionados por la Autoridad de Medio Ambiente y Recursos (ERA) y están incluidos en el inventario nacional de bienes culturales (NICPMI). Están protegidos del desarrollo excesivo."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Acantilados de Dingli (Dingli Cliffs)",
+    "type": "Tipo de Atracción",
+    "typeValue": "Acantilados Naturales / Alturas",
+    "country": "País",
+    "countryValue": "Malta",
+    "city": "Ciudad / Pueblo",
+    "cityValue": "Dingli (cerca de Mdina)",
+    "googleRating": "Valoración de Google",
+    "googleRatingValue": "4.5 (9,185)",
+    "address": "Dirección",
+    "addressValue": "V92P+V45, Dingli, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "phone": "Teléfono",
+    "phoneValue": "+356 2145 6060"
+  },
+  "hours": {
+    "title": "Horario de Visita",
+    "park": "Acceso",
+    "parkTime": "Abierto las 24 horas, todo el año",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeSpring": "Primavera: Clima agradable, plantas en flor",
+    "bestTimeSummer": "Verano: Más fresco por las mañanas y atardeceres, evite el calor del mediodía",
+    "bestTimeAutumn": "Otoño: Clima templado, ideal para caminar",
+    "bestTimeWinter": "Invierno: Menos turistas, vistas puras de la naturaleza",
+    "tip": "No hay tarifa de entrada. Se recomienda visitar durante la semana para observar las estrellas o los atardeceres."
+  },
+  "tickets": {
+    "title": "Información de Entradas",
+    "park": "Visita al Lugar",
+    "parkPrice": "Gratis para el público",
+    "parking": "Aparcamiento",
+    "parkingPrice": "Aparcamiento público gratuito disponible cerca",
+    "guided": "Visitas Guiadas",
+    "guidedPrice": "Disponibles a través de operadores turísticos locales"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "fromCenter": "Desde el Centro (Mdina/Rabat)",
+    "fromCenterDesc": "Distancia de unos 3 km desde Mdina. Se puede llegar en el autobús 201 o 202, o en coche privado.",
+    "fromStation": "Desde la Estación de Autobuses",
+    "fromStationDesc": "Línea 201 desde La Valeta/Blaquière o 202 desde Sliema/Rabat.",
+    "fromAirport": "Desde el Aeropuerto",
+    "fromAirportDesc": "Distancia de unos 12 km. Se recomienda tomar un taxi o un coche de alquiler hasta Dingli.",
+    "publicTransport": "Transporte Público",
+    "publicTransportDesc": "Las líneas 201 y 202 tienen paradas cerca del pueblo de Dingli.",
+    "walking": "A Pie",
+    "walkingDesc": "Camine desde el pueblo de Dingli hasta los acantilados en unos pocos minutos.",
+    "driving": "En Coche",
+    "drivingDesc": "Aparcamiento disponible cerca de la zona de los acantilados."
+  },
+  "route": {
+    "title": "Ruta Recomendada",
+    "overview": "Camine a lo largo de los acantilados y disfrute de las vistas naturales.",
+    "steps": [
+      "Comience desde el aparcamiento cerca del centro del pueblo de Dingli",
+      "Camine por el sendero principal a lo largo de los acantilados",
+      "Llegue al punto con la mejor vista del Mar Mediterráneo",
+      "Explore el área de Maqluba (sumidero colapsado)",
+      "Concluya con un atardecer inolvidable"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores Lugares para Fotos",
+    "spots": [
+      {
+        "title": "Mirador Principal",
+        "description": "El lugar donde puedes tomar las fotos más clásicas de los acantilados y el mar.",
+        "location": "Centro principal",
+        "image": "/gallery/dingli-cliffs (1).jpg"
+      },
+      {
+        "title": "Punto de Atardecer de Dingli",
+        "description": "Lugar ideal para observar las estrellas y la tranquilidad de la naturaleza.",
+        "location": "Fuera del pueblo",
+        "image": "/gallery/dingli-cliffs (2).jpg"
+      },
+      {
+        "title": "Sumidero de Maqluba",
+        "description": "Fenómeno geológico único cerca de Dingli.",
+        "location": "Cerca de los Acantilados de Dingli",
+        "image": "/gallery/dingli-cliffs (3).jpg"
+      },
+      {
+        "title": "Panorama desde las Alturas",
+        "description": "Las laderas del acantilado y el mar azul en la distancia.",
+        "location": "Sendero del acantilado",
+        "image": "/gallery/dingli-cliffs (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Las Vistas Más Altas de Malta",
+    "captions": [
+      "Panorama de los acantilados",
+      "Mar Mediterráneo desde arriba",
+      "Sendero en zona natural",
+      "Sumidero de Maqluba",
+      "Costa occidental de Malta",
+      "Plantas autóctonas en los acantilados",
+      "Pueblo de Dingli",
+      "Vista de Filfla",
+      "Atardecer en los acantilados",
+      "Costa rocosa",
+      "Llanura cercana",
+      "Paredes de roca natural",
+      "Aves que viven en los acantilados",
+      "Noche en los Acantilados de Dingli"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver Todas las Fotos",
+    "showLess": "Mostrar Menos"
+  },
+  "reviews": {
+    "title": "Opiniones de Visitantes",
+    "declaration": "Las opiniones se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más opiniones en Google Maps",
+    "items": [
+      {
+        "name": "Juan C.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "¡Un lugar increíble! El punto más alto de Malta con vistas espectaculares. Recomiendo visitarlo al atardecer."
+      },
+      {
+        "name": "María G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Fui con mis padres y fue excelente. Un lugar tranquilo y relajante, perfecto para una visita en familia."
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "text": "Un lugar muy hermoso para caminar. Las vistas son magníficas. Solo tuve un poco de dificultad para encontrar aparcamiento durante el fin de semana."
+      },
+      {
+        "name": "Elena S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Para una visita a Malta, esta es una de las principales atracciones naturales que no debe perderse. Los árboles y el mar son muy románticos."
+      },
+      {
+        "name": "Marcos A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Estuve aquí para observar las estrellas y fue una experiencia única. Sin ruido de la ciudad, solo el cielo y el mar."
+      },
+      {
+        "name": "Clara B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Lugar perfecto para un picnic de fin de semana. Compre comida cerca y disfrute de la vista."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "V92P+V45, Dingli, Malta",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Acantilados de Dingli",
+    "brandSubtitle": "Atracción Natural · Malta",
+    "rights": "© 2026 Proyecto Independiente de Investigación Turística · Todos los Derechos Reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos e Información Oficial",
+    "officialLinks": {
+      "era": "Autoridad de Medio Ambiente y Recursos de Malta",
+      "visitmalta": "Autoridad de Turismo de Malta",
+      "dingli": "Consejo Local de Dingli",
+      "natura2000": "Red Natura 2000",
+      "nicpmi": "Inventario Cultural NICPMI",
+      "pa": "Autoridad de Planificación de Malta"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "heading": "Recopilación de Información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para proporcionar una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+      },
+      {
+        "heading": "Uso de Cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de la página. Puede gestionar sus preferencias en cualquier momento a través de la opción Configuración de Cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "heading": "Seguridad y Protección de Datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comercializaremos sus datos de navegación a organizaciones comerciales de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "heading": "Contenido del Sitio Web y Uso",
+        "content": "Este sitio web proporciona información sobre viajes, transporte e historia sobre los Acantilados de Dingli. Todo el contenido es solo para referencia. Los horarios de apertura reales y la información de las atracciones pueden cambiar en cualquier momento; consulte los anuncios oficiales."
+      },
+      {
+        "heading": "Propiedad Intelectual",
+        "content": "El texto, las imágenes y los diseños de este sitio web están protegidos por derechos de autor. Sin un permiso explícito por escrito, nadie puede utilizar el contenido del sitio web con fines comerciales."
+      },
+      {
+        "heading": "Descargo de Responsabilidad",
+        "content": "Nos esforzamos por garantizar la precisión y puntualidad de la información, pero no asumimos ninguna responsabilidad legal por retrasos en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Necesarias para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre Activas"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Nos ayudan a comprender el comportamiento de los visitantes y a mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizadas para el seguimiento entre sitios y la entrega de anuncios personalizados."
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias Guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre los Acantilados de Dingli",
+    "text": "Los Acantilados de Dingli son gestionados y protegidos por la Autoridad de Medio Ambiente y Recursos (ERA) de Malta. El área está catalogada como un sitio protegido en el catálogo nacional y en la lista Natura 2000."
+  }
+}

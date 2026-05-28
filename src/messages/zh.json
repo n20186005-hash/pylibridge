@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "title": "波尔泰科斯河拱桥 (Arched Bridge of Portaikos River) – 皮利, 希腊",
+    "description": "波尔泰科斯河拱桥完整旅游指南。了解这个历史地标，包括位置、历史、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "波尔泰科斯河拱桥",
+    "subtitle": "历史地标 · 希腊色萨利大区",
+    "rating": "4.8",
+    "reviewCount": "7,235 条评价",
+    "type": "历史拱桥",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
+  },
+  "intro": {
+    "title": "探索波尔泰科斯河拱桥",
+    "description": "波尔泰科斯河拱桥 (Arched Bridge of Portaikos River at Pyli) 是一座历史悠久的石桥，可追溯到奥斯曼时期。位于特里卡拉-阿尔塔国道第22公里处，这座建筑奇迹横跨波尔泰科斯河，是传统石砌工艺和工程的见证。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是春季或秋季，天气温和。",
+        "可以结合参观附近的波尔泰科斯修道院。",
+        "穿舒适的鞋子在不平坦的地面上行走。",
+        "夏季时记得带水和防晒用品。",
+        "清晨或傍晚是摄影的最佳光线。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "奥斯曼时期石砌建筑",
+        "风景优美的河流景观",
+        "传统工艺展示",
+        "历史意义重大",
+        "摄影热点"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于波尔泰科斯河拱桥",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "这座桥建于奥斯曼时期，几个世纪以来一直是波尔泰科斯河的重要渡口。它代表了那个时代的工程和建筑传统。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑与设计",
+        "content": "该桥采用传统的石拱结构，拥有多个桥跨。其工艺展示了当地石匠的技艺和传统建筑方法的耐久性。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置",
+        "content": "位于皮利附近的特里卡拉-阿尔塔国道第22公里处，桥梁横跨波尔泰科斯河，周围环绕着郁郁葱葱的植被，自然景观优美。"
+      },
+      {
+        "id": "significance",
+        "title": "文化意义",
+        "content": "这座桥是重要的文化遗产地，连接着该地区过去与现在。它仍在使用中，并作为历史古迹得到保护。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Arched Bridge of Portaikos River at Pyli (波尔泰科斯河拱桥)",
+    "type": "景点类型",
+    "typeValue": "历史拱桥 / 古迹",
+    "country": "国家",
+    "countryValue": "希腊 (Greece)",
+    "region": "大区",
+    "regionValue": "色萨利大区 (Thessaly)",
+    "city": "城镇",
+    "cityValue": "皮利 (Pyli)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 (7,235)",
+    "address": "地址",
+    "addressValue": "22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας, Pili 420 32, 希腊",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "FJ62+65 Pyli, Greece",
+    "phone": "联系电话",
+    "phoneValue": "+30 2431 076647"
+  },
+  "hours": {
+    "title": "游览信息",
+    "park": "进入",
+    "parkTime": "24小时开放，户外古迹",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候温和，周围自然风光盛开",
+    "bestTimeSummer": "夏季：清晨或傍晚避免高温",
+    "bestTimeAutumn": "秋季：宜人的温度，美丽的秋叶",
+    "bestTimeWinter": "冬季：游客较少，宁静的环境",
+    "tip": "桥梁随时可免费参观，无需门票。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "免费公众开放",
+    "parking": "停车",
+    "parkingPrice": "路边有免费停车场",
+    "guided": "导游服务",
+    "guidedPrice": "可通过当地旅游运营商安排"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从特里卡拉市中心",
+    "fromCenterDesc": "距离特里卡拉约22公里。可通过特里卡拉-阿尔塔国道自驾前往。",
+    "fromStation": "从皮利镇",
+    "fromStationDesc": "桥梁距离皮利镇中心2公里，可通过当地道路到达。",
+    "fromAirort": "从最近机场",
+    "fromAirportDesc": "约阿尼纳机场是最近的主要机场，约85公里 away。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "从特里卡拉到皮利的公交服务有限，请查询当地时刻表。",
+    "walking": "步行",
+    "walkingDesc": "从路边停车场到桥梁步行距离很短。",
+    "driving": "自驾",
+    "drivingDesc": "沿特里卡拉-阿尔塔国道行驶至第22公里处即可到达。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索历史桥梁和周边区域。",
+    "steps": [
+      "通过特里卡拉-阿尔塔国道到达桥梁",
+      "步行穿过历史拱桥",
+      "欣赏波尔泰科斯河的景色",
+      "从多个角度拍摄照片",
+      "参观附近的波尔泰科斯修道院（可选）",
+      "探索皮利镇"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "桥拱景观",
+        "description": "从河岸捕捉完整的拱形结构。",
+        "location": "河岸",
+        "image": "/gallery/arched-bridge-1.jpg"
+      },
+      {
+        "title": "河流视角",
+        "description": "从下游拍摄桥梁，前景有河水。",
+        "location": "下游",
+        "image": "/gallery/arched-bridge-2.jpg"
+      },
+      {
+        "title": "石头细节",
+        "description": "传统石砌工艺的特写。",
+        "location": "桥梁结构",
+        "image": "/gallery/arched-bridge-3.jpg"
+      },
+      {
+        "title": "全景视图",
+        "description": "广角视图展示桥梁的自然环境。",
+        "location": "山坡观景点",
+        "image": "/gallery/arched-bridge-4.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "历史桥梁美景",
+    "captions": [
+      "桥梁全景",
+      "拱门细节",
+      "河流景观",
+      "石砌工艺",
+      "周围景观",
+      "桥梁通道",
+      "自然环境",
+      "历史结构",
+      "风景河流",
+      "传统建筑",
+      "远处看桥",
+      "水面倒影",
+      "附近植被",
+      "完整结构视图"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "约翰 D.",
+        "rating": 5,
+        "date": "2026-03-10",
+        "text": "美丽的历史桥梁，石砌工艺令人惊叹。位置风景优美且宁静。如果你在该地区，一定要来参观。"
+      },
+      {
+        "name": "玛丽亚 K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "对于那个时代来说，工程技术令人印象深刻。这座桥经受住了时间的考验，仍然功能完好。历史爱好者不容错过。"
+      },
+      {
+        "name": "乔治 P.",
+        "rating": 5,
+        "date": "2026-01-20",
+        "text": "和家人一起来参观。孩子们对这座老桥很着迷。是拍照和短暂停留的好地方。"
+      },
+      {
+        "name": "埃琳娜 S.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "色萨利大区的一个隐藏宝石。桥梁保存完好，周围的自然风光很美，尤其是在春天。"
+      },
+      {
+        "name": "尼科斯 A.",
+        "rating": 4,
+        "date": "2025-11-18",
+        "text": "历史悠久且风景如画。从主路很容易到达。建议结合参观皮利镇。"
+      },
+      {
+        "name": "安娜 M.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "喜欢这里的建筑和历史。免费参观且随时开放。完美的历史短途停留点。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "22ο χλμ. Τρικάλων - Άρτας, Pili 420 32, Greece",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "波尔泰科斯河拱桥",
+    "brandSubtitle": "历史地标 · 希腊色萨利大区",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "gnto": "希腊国家旅游组织 (GNTO)",
+      "thessaly": "色萨利大区政府",
+      "pyli": "皮利市政府",
+      "ephorate": "特里卡拉古物局",
+      "cadastre": "希腊国家考古地籍系统"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于波尔泰科斯河拱桥",
+    "text": "波尔泰科斯河拱桥是受保护的历史古迹，由希腊文化部下属的特里卡拉古物局负责管理和保护。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的"Cookie设置"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关波尔泰科斯河拱桥的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}
