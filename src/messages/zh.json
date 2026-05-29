@@ -115,7 +115,7 @@
     "fromCenterDesc": "距离特里卡拉约22公里。可通过特里卡拉-阿尔塔国道自驾前往。",
     "fromStation": "从皮利镇",
     "fromStationDesc": "桥梁距离皮利镇中心2公里，可通过当地道路到达。",
-    "fromAirort": "从最近机场",
+    "fromAirport": "从最近机场",
     "fromAirportDesc": "约阿尼纳机场是最近的主要机场，约85公里 away。",
     "publicTransport": "公共交通",
     "publicTransportDesc": "从特里卡拉到皮利的公交服务有限，请查询当地时刻表。",
@@ -267,7 +267,7 @@
       },
       {
         "heading": "Cookie的使用",
-        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的"Cookie设置"选项管理您的偏好。"
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
       },
       {
         "heading": "数据安全与保护",
