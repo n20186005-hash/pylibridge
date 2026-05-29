@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/arched-bridge-1.jpg"
+          src="/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg"
           alt="Arched Bridge of Portaikos River"
           className="w-full h-full object-cover"
         />
