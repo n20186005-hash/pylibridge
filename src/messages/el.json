@@ -20,16 +20,15 @@
     "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
   },
   "intro": {
-    "title": "Ανακαλύψτε το Τοξωτό Γεφύρι Πορταϊκού",
-    "description": "Το Τοξωτό Γεφύρι Πορταϊκού Ποταμού στην Πύλη είναι μια ιστορική πέτρινη γέφυρα που χρονολογείται από την περίοδο της Οθωμανικής Αυτοκρατορίας. Βρίσκεται στο 22ο χιλιόμετρο της εθνικής οδού Τρικάλων - Άρτας, αυτό το αρχιτεκτονικό θαύμα εκτείνεται πάνω από τον Πορταϊκό Ποταμό και αποτελεί τεκμήριο της παραδοσιακής πετροχτισίας και μηχανικής.",
+    "title": "Explore the Footprints of History",
+    "description": "The Arched Bridge of Portaikos, built in 1514 by Saint Vissarion (Metropolitan of Larissa), is a magnificent single-arch stone bridge. It is the second largest of its kind in Thessaly and served as the sole vital connection between the Thessalian plain and the Pindos mountain villages (Epirus) for centuries. Spanning gracefully over the crystal-clear Portaikos River, flanked by towering cliffs and ancient plane trees, it represents a perfect harmony between nature and human architectural genius. Whether you are a history enthusiast, a hiker, or a photographer, this site offers an unforgettable experience.",
     "visitGuide": {
-      "title": "Συμβουλές Επίσκεψης",
+      "title": "Visit Guide",
       "items": [
-        "Καλύτερη περίοδος είναι η άνοιξη ή το φθινόπωρο όταν ο καιρός είναι ήπιος.",
-        "Συνδυάστε με επίσκεψη στην κοντινή Μονή Πορταϊκού.",
-        "Φορέστε άνετα παπούτσια για περπάτημα σε ανώμαλο έδαφος.",
-        "Φέρτε νερό και προστασία από τον ήλιο κατά τους καλοκαιρινούς μήνες.",
-        "Το πρωί ή αργά το απόγευμα προσφέρουν τον καλύτερο φωτισμό για φωτογραφία."
+        "Best time for photography: Early morning or late afternoon for soft light and fewer crowds.",
+        "Footwear: Wear comfortable, slip-resistant shoes as the riverbank stones can be slippery.",
+        "Exploration: Cross the bridge and follow the riverside trails to enjoy the tranquil nature.",
+        "Accessibility: There is a short cobbled path from the main road; wheelchair access may be challenging."
       ]
     },
     "alsoKnownAs": {
@@ -44,27 +43,27 @@
     }
   },
   "knowledge": {
-    "title": "Σχετικά με το Τοξωτό Γεφύρι",
+    "title": "Discover the Portaikos River Bridge",
     "sections": [
       {
         "id": "history",
-        "title": "Ιστορικό Υπόβαθρο",
-        "content": "Η γέφυρα κατασκευάστηκε κατά την περίοδο της Οθωμανικής Αυτοκρατορίας και έχει χρησιμεύσει ως ζωτικό σημείο διέλευσης πάνω από τον Πορταϊκό Ποταμό για αιώνες. Αντιπροσωπεύει τις μηχανικές και αρχιτεκτονικές παραδόσεις της εποχής εκείνης."
+        "title": "Rich History",
+        "content": "Constructed in 1514 during the Ottoman era, the bridge was funded and overseen by Saint Vissarion (Agios Vissarion). Until a modern road bridge was built in 1936, it was the only passage connecting the Thessalian plain with the Pindos mountains, playing an irreplaceable role in local trade and transport."
       },
       {
         "id": "architecture",
-        "title": "Αρχιτεκτονική & Σχεδιασμός",
-        "content": "Η γέφυρα διαθέτει παραδοσιακή κατασκευή με πέτρινα τόξα και πολλαπλά ανοίγματα. Η τεχνοτροπία αποδεικνύει την ικανότητα των τοπικών πετροχτιστών και την ανθεκτικότητα των παραδοσιακών μεθόδων κατασκευής."
+        "title": "Architectural Marvel",
+        "content": "As the second largest single-arch stone bridge in Thessaly, it boasts a span of 29 meters, a maximum height of 13 meters from the water, and a deck width of 2.1 meters. Built primarily with local limestone (rubble masonry), its elegant semi-circular arch showcases the masterful skills of 16th-century craftsmen."
       },
       {
-        "id": "location",
-        "title": "Γεωγραφικό Πλαίσιο",
-        "content": "Βρίσκεται στο 22ο χιλιόμετρο της εθνικής οδού Τρικάλων - Άρτας κοντά στην Πύλη, η γέφυρα εκτείνεται πάνω από τον Πορταϊκό Ποταμό σε ένα γραφικό φυσικό περιβάλλον περιτριγυρισμένο από πλούσια βλάστηση."
+        "id": "nature",
+        "title": "Stunning Natural Landscape",
+        "content": "The bridge is nestled in a narrow gorge of the Portaikos River, surrounded by the lush Pindos mountains. Massive centuries-old plane trees line the riverbanks, while crystal-clear waters rush beneath the arch, creating a picturesque natural scenery."
       },
       {
-        "id": "significance",
-        "title": "Πολιτισμική Σημασία",
-        "content": "Η γέφυρα είναι ένα σημαντικό πολιτισμικό μνημείο που συνδέει το παρελθόν της περιοχής με το παρόν. Παραμένει σε χρήση και διατηρείται ως ιστορικό μνημείο."
+        "id": "nearby",
+        "title": "Nearby Attractions",
+        "content": "Close to the bridge, you can visit the 13th-century Byzantine church of Porta Panagia. The scenic mountain villages of Elati and Pertouli are also just a short drive away, offering perfect spots to experience local culture and traditional cuisine."
       }
     ]
   },
@@ -143,25 +142,25 @@
         "title": "Προβολή Τόξου Γέφυρας",
         "description": "Απαθανατίστε την πλήρη δομή του τόξου από την όχθη του ποταμού.",
         "location": "Παρόχθια περιοχή",
-        "image": "/gallery/arched-bridge-1.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "Οπτική Ποταμού",
         "description": "Δείτε τη γέφυρα από τη ροή προς τα κάτω με νερό στο προσκήνιο.",
         "location": "Ροή προς τα κάτω",
-        "image": "/gallery/arched-bridge-2.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "Λεπτομέρεια Πέτρας",
         "description": "Κοντινό πλάνο της παραδοσιακής εργασίας πετροχτισίας.",
         "location": "Δομή γέφυρας",
-        "image": "/gallery/arched-bridge-3.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "Πανοραμική Προβολή",
         "description": "Ευρυγώνια προβολή που δείχνει τη γέφυρα στο φυσικό της περιβάλλον.",
         "location": "Σημείο προβολής πλαγιάς λόφου",
-        "image": "/gallery/arched-bridge-4.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       }
     ]
   },

@@ -1,5 +1,13 @@
 import { useTranslations, useMessages } from 'next-intl';
 
+const sectionImages = [
+  '/gallery/arched-bridge-of-portaikos-river-at-pyli-8.jpg',
+  '/gallery/arched-bridge-of-portaikos-river-at-pyli-3.jpg',
+  '/gallery/arched-bridge-of-portaikos-river-at-pyli-4.jpg',
+  '/gallery/arched-bridge-of-portaikos-river-at-pyli-12.jpg',
+  '/gallery/arched-bridge-of-portaikos-river-at-pyli-5.jpg'
+];
+
 export default function InfoSection() {
   const t = useTranslations('knowledge');
   const messages = useMessages() as any;
@@ -7,24 +15,36 @@ export default function InfoSection() {
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6 text-center"
           style={{ color: 'var(--text-primary)' }}
         >
           {t('title')}
         </h2>
-        <div className="w-12 h-0.5 mb-12 mx-auto" style={{ background: 'var(--accent)' }} />
+        <div className="w-12 h-0.5 mb-16 mx-auto" style={{ background: 'var(--accent)' }} />
 
-        <div className="space-y-12">
+        <div className="space-y-16">
           {sections.map((section, index) => (
             <div 
               key={section.id} 
-              className={`flex flex-col md:flex-row gap-6 items-start ${index % 2 !== 0 ? 'md:flex-row-reverse' : ''}`}
+              className={`flex flex-col md:flex-row gap-8 lg:gap-12 items-center ${index % 2 !== 0 ? 'md:flex-row-reverse' : ''}`}
             >
+              {/* Image Column */}
+              <div className="flex-1 w-full relative">
+                <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
+                  <img 
+                    src={sectionImages[index % sectionImages.length]} 
+                    alt={section.title}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
+                  />
+                </div>
+              </div>
+
+              {/* Text Column */}
               <div className="flex-1 w-full bg-white/5 p-8 rounded-2xl border border-white/10 shadow-sm hover:shadow-md transition-shadow">
                 <div className="flex items-center gap-4 mb-4">
-                  <div className="w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg" style={{ background: 'var(--accent)', color: 'white' }}>
+                  <div className="w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg flex-shrink-0" style={{ background: 'var(--accent)', color: 'white' }}>
                     {index + 1}
                   </div>
                   <h3
@@ -35,7 +55,7 @@ export default function InfoSection() {
                   </h3>
                 </div>
                 <p
-                  className="text-lg leading-relaxed ml-14"
+                  className="text-lg leading-relaxed md:ml-14"
                   style={{ color: 'var(--text-secondary)' }}
                 >
                   {section.content}

@@ -20,15 +20,15 @@
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
   },
   "intro": {
-    "title": "Descubre los Acantilados de Dingli",
-    "description": "Los Acantilados de Dingli son el punto natural más alto de Malta, con una altitud de aproximadamente 253 metros sobre el nivel del mar. Situados en la parte occidental de la isla cerca del pueblo de Dingli, ofrecen vistas espectaculares del mar y la costa. Este lugar es famoso por su panorama, atardeceres y áreas naturales protegidas.",
+    "title": "Explore the Footprints of History",
+    "description": "The Arched Bridge of Portaikos, built in 1514 by Saint Vissarion (Metropolitan of Larissa), is a magnificent single-arch stone bridge. It is the second largest of its kind in Thessaly and served as the sole vital connection between the Thessalian plain and the Pindos mountain villages (Epirus) for centuries. Spanning gracefully over the crystal-clear Portaikos River, flanked by towering cliffs and ancient plane trees, it represents a perfect harmony between nature and human architectural genius. Whether you are a history enthusiast, a hiker, or a photographer, this site offers an unforgettable experience.",
     "visitGuide": {
-      "title": "Consejos de Visita",
+      "title": "Visit Guide",
       "items": [
-        "La mejor época para visitar es la primavera o el otoño cuando el clima es agradable.",
-        "Durante la semana al atardecer, elija la hora antes de la puesta del sol para las mejores vistas.",
-        "Lleve zapatos cómodos para caminar por senderos naturales.",
-        "Lleve agua y protección solar, especialmente durante el verano."
+        "Best time for photography: Early morning or late afternoon for soft light and fewer crowds.",
+        "Footwear: Wear comfortable, slip-resistant shoes as the riverbank stones can be slippery.",
+        "Exploration: Cross the bridge and follow the riverside trails to enjoy the tranquil nature.",
+        "Accessibility: There is a short cobbled path from the main road; wheelchair access may be challenging."
       ]
     },
     "alsoKnownAs": {
@@ -42,27 +42,27 @@
     }
   },
   "knowledge": {
-    "title": "Sobre los Acantilados de Dingli",
+    "title": "Discover the Portaikos River Bridge",
     "sections": [
       {
-        "id": "geography",
-        "title": "Geografía y Elevación",
-        "content": "Los Acantilados de Dingli se encuentran en el suroeste de Malta, con una altitud de aproximadamente 253 metros sobre el nivel del mar. Son el punto más alto de la isla y ofrecen amplias vistas del Mar Mediterráneo."
+        "id": "history",
+        "title": "Rich History",
+        "content": "Constructed in 1514 during the Ottoman era, the bridge was funded and overseen by Saint Vissarion (Agios Vissarion). Until a modern road bridge was built in 1936, it was the only passage connecting the Thessalian plain with the Pindos mountains, playing an irreplaceable role in local trade and transport."
       },
       {
-        "id": "ecology",
-        "title": "Ecología y Biodiversidad",
-        "content": "Los acantilados forman parte del área protegida Natura 2000. Albergan plantas autóctonas y especies de aves migratorias. Esta zona es importante para la biodiversidad de Malta."
+        "id": "architecture",
+        "title": "Architectural Marvel",
+        "content": "As the second largest single-arch stone bridge in Thessaly, it boasts a span of 29 meters, a maximum height of 13 meters from the water, and a deck width of 2.1 meters. Built primarily with local limestone (rubble masonry), its elegant semi-circular arch showcases the masterful skills of 16th-century craftsmen."
       },
       {
-        "id": "cultural",
-        "title": "Significado Cultural",
-        "content": "Los Acantilados de Dingli tienen un significado cultural en la mitología maltesa. Se dice que la isla de Filfla, situada frente a la costa, fue sostenida por gigantes en leyendas del pasado."
+        "id": "nature",
+        "title": "Stunning Natural Landscape",
+        "content": "The bridge is nestled in a narrow gorge of the Portaikos River, surrounded by the lush Pindos mountains. Massive centuries-old plane trees line the riverbanks, while crystal-clear waters rush beneath the arch, creating a picturesque natural scenery."
       },
       {
-        "id": "protection",
-        "title": "Protección y Conservación",
-        "content": "Los acantilados son gestionados por la Autoridad de Medio Ambiente y Recursos (ERA) y están incluidos en el inventario nacional de bienes culturales (NICPMI). Están protegidos del desarrollo excesivo."
+        "id": "nearby",
+        "title": "Nearby Attractions",
+        "content": "Close to the bridge, you can visit the 13th-century Byzantine church of Porta Panagia. The scenic mountain villages of Elati and Pertouli are also just a short drive away, offering perfect spots to experience local culture and traditional cuisine."
       }
     ]
   },

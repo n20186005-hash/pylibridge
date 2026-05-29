@@ -20,15 +20,15 @@
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
   },
   "intro": {
-    "title": "Scopri le Dingli Cliffs",
-    "description": "Le Dingli Cliffs sono il punto naturale più alto di Malta, con un'altitudine di circa 253 metri sul livello del mare. Si trovano nella parte occidentale dell'isola, vicino al villaggio di Dingli, e offrono vedute spettacolari del mare e della costa. Questo luogo è famoso per il suo panorama, i tramonti e le aree naturali protette.",
+    "title": "Explore the Footprints of History",
+    "description": "The Arched Bridge of Portaikos, built in 1514 by Saint Vissarion (Metropolitan of Larissa), is a magnificent single-arch stone bridge. It is the second largest of its kind in Thessaly and served as the sole vital connection between the Thessalian plain and the Pindos mountain villages (Epirus) for centuries. Spanning gracefully over the crystal-clear Portaikos River, flanked by towering cliffs and ancient plane trees, it represents a perfect harmony between nature and human architectural genius. Whether you are a history enthusiast, a hiker, or a photographer, this site offers an unforgettable experience.",
     "visitGuide": {
-      "title": "Consigli per la Visita",
+      "title": "Visit Guide",
       "items": [
-        "Il momento migliore per visitare è la primavera o l'autunno quando il clima è piacevole.",
-        "Durante la settimana al tramonto, scegli l'ora prima del calar del sole per le vedute più belle.",
-        "Indossa scarpe comode per camminare sui sentieri naturali.",
-        "Porta acqua e protezione solare specialmente durante l'estate."
+        "Best time for photography: Early morning or late afternoon for soft light and fewer crowds.",
+        "Footwear: Wear comfortable, slip-resistant shoes as the riverbank stones can be slippery.",
+        "Exploration: Cross the bridge and follow the riverside trails to enjoy the tranquil nature.",
+        "Accessibility: There is a short cobbled path from the main road; wheelchair access may be challenging."
       ]
     },
     "alsoKnownAs": {
@@ -42,27 +42,27 @@
     }
   },
   "knowledge": {
-    "title": "Informazioni sulle Dingli Cliffs",
+    "title": "Discover the Portaikos River Bridge",
     "sections": [
       {
-        "id": "geography",
-        "title": "Geografia e Altitudine",
-        "content": "Le Dingli Cliffs si trovano a sud-ovest di Malta, con un'altitudine di circa 253 metri sul livello del mare. Sono il punto più alto dell'isola e offrono vaste vedute del Mar Mediterraneo."
+        "id": "history",
+        "title": "Rich History",
+        "content": "Constructed in 1514 during the Ottoman era, the bridge was funded and overseen by Saint Vissarion (Agios Vissarion). Until a modern road bridge was built in 1936, it was the only passage connecting the Thessalian plain with the Pindos mountains, playing an irreplaceable role in local trade and transport."
       },
       {
-        "id": "ecology",
-        "title": "Ecologia e Biodiversità",
-        "content": "Le scogliere fanno parte della zona protetta Natura 2000. Ospitano piante indigene e specie di uccelli migratori. Quest'area è importante per la biodiversità di Malta."
+        "id": "architecture",
+        "title": "Architectural Marvel",
+        "content": "As the second largest single-arch stone bridge in Thessaly, it boasts a span of 29 meters, a maximum height of 13 meters from the water, and a deck width of 2.1 meters. Built primarily with local limestone (rubble masonry), its elegant semi-circular arch showcases the masterful skills of 16th-century craftsmen."
       },
       {
-        "id": "cultural",
-        "title": "Significato Culturale",
-        "content": "Le Dingli Cliffs hanno un significato culturale nella mitologia maltese. Si dice che l'isola di Filfla, situata al largo della costa, fosse tenuta da giganti nelle leggende del passato."
+        "id": "nature",
+        "title": "Stunning Natural Landscape",
+        "content": "The bridge is nestled in a narrow gorge of the Portaikos River, surrounded by the lush Pindos mountains. Massive centuries-old plane trees line the riverbanks, while crystal-clear waters rush beneath the arch, creating a picturesque natural scenery."
       },
       {
-        "id": "protection",
-        "title": "Protezione e Conservazione",
-        "content": "Le scogliere sono gestite dall'Autorità per l'Ambiente e le Risorse (ERA) ed sono elencate nell'inventario nazionale dei beni culturali (NICPMI). Sono protette da eccessivi sviluppi."
+        "id": "nearby",
+        "title": "Nearby Attractions",
+        "content": "Close to the bridge, you can visit the 13th-century Byzantine church of Porta Panagia. The scenic mountain villages of Elati and Pertouli are also just a short drive away, offering perfect spots to experience local culture and traditional cuisine."
       }
     ]
   },

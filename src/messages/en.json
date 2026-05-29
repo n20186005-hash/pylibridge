@@ -20,16 +20,15 @@
     "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
   },
   "intro": {
-    "title": "Discover the Arched Bridge of Portaikos River",
-    "description": "The Arched Bridge of Portaikos River at Pyli is a historic stone bridge dating back to the Ottoman period. Located at the 22nd kilometer of the Trikala-Arta national road, this architectural marvel spans the Portaikos River and serves as a testament to traditional stone masonry and engineering.",
+    "title": "Explore the Footprints of History",
+    "description": "The Arched Bridge of Portaikos, built in 1514 by Saint Vissarion (Metropolitan of Larissa), is a magnificent single-arch stone bridge. It is the second largest of its kind in Thessaly and served as the sole vital connection between the Thessalian plain and the Pindos mountain villages (Epirus) for centuries. Spanning gracefully over the crystal-clear Portaikos River, flanked by towering cliffs and ancient plane trees, it represents a perfect harmony between nature and human architectural genius. Whether you are a history enthusiast, a hiker, or a photographer, this site offers an unforgettable experience.",
     "visitGuide": {
-      "title": "Visit Tips",
+      "title": "Visit Guide",
       "items": [
-        "Best visited in spring or autumn when the weather is mild.",
-        "Combine with a visit to the nearby Portaikos Monastery.",
-        "Wear comfortable shoes for walking on uneven terrain.",
-        "Bring water and sun protection during summer months.",
-        "Early morning or late afternoon offers the best lighting for photography."
+        "Best time for photography: Early morning or late afternoon for soft light and fewer crowds.",
+        "Footwear: Wear comfortable, slip-resistant shoes as the riverbank stones can be slippery.",
+        "Exploration: Cross the bridge and follow the riverside trails to enjoy the tranquil nature.",
+        "Accessibility: There is a short cobbled path from the main road; wheelchair access may be challenging."
       ]
     },
     "alsoKnownAs": {
@@ -44,27 +43,27 @@
     }
   },
   "knowledge": {
-    "title": "About the Arched Bridge",
+    "title": "Discover the Portaikos River Bridge",
     "sections": [
       {
         "id": "history",
-        "title": "Historical Background",
-        "content": "The bridge was constructed during the Ottoman period and has served as a vital crossing point over the Portaikos River for centuries. It represents the engineering and architectural traditions of the era."
+        "title": "Rich History",
+        "content": "Constructed in 1514 during the Ottoman era, the bridge was funded and overseen by Saint Vissarion (Agios Vissarion). Until a modern road bridge was built in 1936, it was the only passage connecting the Thessalian plain with the Pindos mountains, playing an irreplaceable role in local trade and transport."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Design",
-        "content": "The bridge features traditional stone arch construction with multiple spans. The craftsmanship demonstrates the skill of local stonemasons and the durability of traditional building methods."
+        "title": "Architectural Marvel",
+        "content": "As the second largest single-arch stone bridge in Thessaly, it boasts a span of 29 meters, a maximum height of 13 meters from the water, and a deck width of 2.1 meters. Built primarily with local limestone (rubble masonry), its elegant semi-circular arch showcases the masterful skills of 16th-century craftsmen."
       },
       {
-        "id": "location",
-        "title": "Geographic Setting",
-        "content": "Located at the 22nd kilometer of the Trikala-Arta national road near Pyli, the bridge spans the Portaikos River in a scenic natural setting surrounded by lush vegetation."
+        "id": "nature",
+        "title": "Stunning Natural Landscape",
+        "content": "The bridge is nestled in a narrow gorge of the Portaikos River, surrounded by the lush Pindos mountains. Massive centuries-old plane trees line the riverbanks, while crystal-clear waters rush beneath the arch, creating a picturesque natural scenery."
       },
       {
-        "id": "significance",
-        "title": "Cultural Significance",
-        "content": "The bridge is an important cultural heritage site that connects the region's past with its present. It remains in use and is maintained as a historical monument."
+        "id": "nearby",
+        "title": "Nearby Attractions",
+        "content": "Close to the bridge, you can visit the 13th-century Byzantine church of Porta Panagia. The scenic mountain villages of Elati and Pertouli are also just a short drive away, offering perfect spots to experience local culture and traditional cuisine."
       }
     ]
   },
@@ -143,25 +142,25 @@
         "title": "Bridge Arch View",
         "description": "Capture the full arch structure from the river bank.",
         "location": "Riverside",
-        "image": "/gallery/arched-bridge-1.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "River Perspective",
         "description": "View the bridge from downstream with water in the foreground.",
         "location": "Downstream",
-        "image": "/gallery/arched-bridge-2.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "Stone Detail",
         "description": "Close-up of the traditional stone masonry work.",
         "location": "Bridge structure",
-        "image": "/gallery/arched-bridge-3.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "Panoramic View",
         "description": "Wide angle view showing the bridge in its natural setting.",
         "location": "Hillside viewpoint",
-        "image": "/gallery/arched-bridge-4.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       }
     ]
   },

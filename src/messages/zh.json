@@ -20,16 +20,15 @@
     "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
   },
   "intro": {
-    "title": "探索波尔泰科斯河拱桥",
-    "description": "波尔泰科斯河拱桥 (Arched Bridge of Portaikos River at Pyli) 是一座历史悠久的石桥，可追溯到奥斯曼时期。位于特里卡拉-阿尔塔国道第22公里处，这座建筑奇迹横跨波尔泰科斯河，是传统石砌工艺和工程的见证。",
+    "title": "探索历史的印记",
+    "description": "波尔泰科斯河拱桥（Arched Bridge of Portaikos）建于1514年，由当时的拉里萨都主教圣维萨里翁（Saint Vissarion）主持修建。这座宏伟的单拱石桥不仅是色萨利大区第二大的石拱桥，更是几个世纪以来连接特里卡拉平原与平都斯山脉（伊庇鲁斯地区）的唯一生命线。桥梁静静地横跨在清澈的波尔泰科斯河上，两侧是高耸的悬崖和繁茂的梧桐树，是自然风光与人类建筑奇迹的完美结合。无论您是历史爱好者、徒步旅行者，还是摄影爱好者，这里都将为您提供一段难忘的体验。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
-        "最佳游览时间是春季或秋季，天气温和。",
-        "可以结合参观附近的波尔泰科斯修道院。",
-        "穿舒适的鞋子在不平坦的地面上行走。",
-        "夏季时记得带水和防晒用品。",
-        "清晨或傍晚是摄影的最佳光线。"
+        "最佳拍摄时间：清晨或傍晚，光线柔和且游客较少",
+        "穿着建议：请穿着防滑的舒适步鞋，河岸石头可能湿滑",
+        "周边探索：过桥后可沿着河畔小径漫步，享受宁静的自然风光",
+        "无障碍设施：从主路到桥边有一小段石板路，轮椅通行有一定难度"
       ]
     },
     "alsoKnownAs": {
@@ -44,27 +43,27 @@
     }
   },
   "knowledge": {
-    "title": "关于波尔泰科斯河拱桥",
+    "title": "深入了解波尔泰科斯河拱桥",
     "sections": [
       {
         "id": "history",
-        "title": "历史背景",
-        "content": "这座桥建于奥斯曼时期，几个世纪以来一直是波尔泰科斯河的重要渡口。它代表了那个时代的工程和建筑传统。"
+        "title": "悠久的历史",
+        "content": "这座桥建于1514年（奥斯曼帝国统治时期），由圣维萨里翁（Agios Vissarion）出资并主持修建。在1936年现代公路桥建成之前，它一直是连接色萨利平原与平都斯山脉村落的唯一通道，在当地的商业贸易和交通运输中发挥了不可替代的作用。"
       },
       {
         "id": "architecture",
-        "title": "建筑与设计",
-        "content": "该桥采用传统的石拱结构，拥有多个桥跨。其工艺展示了当地石匠的技艺和传统建筑方法的耐久性。"
+        "title": "建筑奇迹",
+        "content": "该桥是色萨利大区第二大的单拱石桥。其主拱跨度高达29米，最高处距离水面约13米，桥面宽度为2.1米。桥梁主要使用当地的石灰岩（rubble masonry）建造，半圆形的优美拱门展现了16世纪工匠们精湛的建筑技艺。"
       },
       {
-        "id": "location",
-        "title": "地理位置",
-        "content": "位于皮利附近的特里卡拉-阿尔塔国道第22公里处，桥梁横跨波尔泰科斯河，周围环绕着郁郁葱葱的植被，自然景观优美。"
+        "id": "nature",
+        "title": "壮丽的自然景观",
+        "content": "桥梁坐落于波尔泰科斯河（Portaikos）的狭窄峡谷中，被苍翠的平都斯山脉环绕。河岸两侧生长着巨大的百年梧桐树，清澈的河水在桥下奔流不息，形成了一幅如诗如画的自然画卷。"
       },
       {
-        "id": "significance",
-        "title": "文化意义",
-        "content": "这座桥是重要的文化遗产地，连接着该地区过去与现在。它仍在使用中，并作为历史古迹得到保护。"
+        "id": "nearby",
+        "title": "周边景点",
+        "content": "在拱桥附近，您可以参观建于13世纪的拜占庭式教堂 Porta Panagia。此外，风景如画的高山村落 Elati 和 Pertouli 也距离不远，是体验当地传统文化和品尝特色美食的绝佳去处。"
       }
     ]
   },
@@ -143,25 +142,25 @@
         "title": "桥拱景观",
         "description": "从河岸捕捉完整的拱形结构。",
         "location": "河岸",
-        "image": "/gallery/arched-bridge-1.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "河流视角",
         "description": "从下游拍摄桥梁，前景有河水。",
         "location": "下游",
-        "image": "/gallery/arched-bridge-2.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "石头细节",
         "description": "传统石砌工艺的特写。",
         "location": "桥梁结构",
-        "image": "/gallery/arched-bridge-3.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
         "title": "全景视图",
         "description": "广角视图展示桥梁的自然环境。",
         "location": "山坡观景点",
-        "image": "/gallery/arched-bridge-4.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       }
     ]
   },

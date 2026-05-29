@@ -20,15 +20,15 @@
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
   },
   "intro": {
-    "title": "Skopri d-Dingli Cliffs",
-    "description": "Id-Dingli Cliffs huma l-ogħla punt naturali f'Malta, b'altitudni ta' madwar 253 metru 'l fuq mil-livell tal-baħar. Jinsabu fil-parti tal-punent tal-gżira, ħdejn il-villaġġ ta' Dingli, u joffru veduti spettakolari tal-baħar u tal-kosta. Dan il-post huwa magħruf għall-panorama tiegħu, il-fażanatura, u l-żoni naturali protetti.",
+    "title": "Explore the Footprints of History",
+    "description": "The Arched Bridge of Portaikos, built in 1514 by Saint Vissarion (Metropolitan of Larissa), is a magnificent single-arch stone bridge. It is the second largest of its kind in Thessaly and served as the sole vital connection between the Thessalian plain and the Pindos mountain villages (Epirus) for centuries. Spanning gracefully over the crystal-clear Portaikos River, flanked by towering cliffs and ancient plane trees, it represents a perfect harmony between nature and human architectural genius. Whether you are a history enthusiast, a hiker, or a photographer, this site offers an unforgettable experience.",
     "visitGuide": {
-      "title": "Temiżuri għaż-Żjara",
+      "title": "Visit Guide",
       "items": [
-        "L-aħjar ħin biex iżżur huma l-żiffa jew l-istaġun tan-niżla tal-weraq billi t-temp huwa pjaċevoli.",
-        "Fil-ġimgħa ta' filgħaxija, tingħażel il-ħin qabel il-niżla tax-xemx għall-veduti l-isbaħ.",
-        "Iġbor żraben komdi għad-dawrien fuq il-passiġġati naturali.",
-        "Ħu il-ma u l-protezzjoni tax-xemx speċjalment matul is-sajf."
+        "Best time for photography: Early morning or late afternoon for soft light and fewer crowds.",
+        "Footwear: Wear comfortable, slip-resistant shoes as the riverbank stones can be slippery.",
+        "Exploration: Cross the bridge and follow the riverside trails to enjoy the tranquil nature.",
+        "Accessibility: There is a short cobbled path from the main road; wheelchair access may be challenging."
       ]
     },
     "alsoKnownAs": {
@@ -42,27 +42,27 @@
     }
   },
   "knowledge": {
-    "title": "Dwar id-Dingli Cliffs",
+    "title": "Discover the Portaikos River Bridge",
     "sections": [
       {
-        "id": "geography",
-        "title": "Ġeografija u Għoli",
-        "content": "Id-Dingli Cliffs jinsabu fil-Lbiċ ta' Malta, b'altitudni ta' madwar 253 metru 'l fuq mil-livell tal-baħar. Huma l-ogħla punt tal-gżira u joffru veduti vasti lejn il-Baħar Mediterran."
+        "id": "history",
+        "title": "Rich History",
+        "content": "Constructed in 1514 during the Ottoman era, the bridge was funded and overseen by Saint Vissarion (Agios Vissarion). Until a modern road bridge was built in 1936, it was the only passage connecting the Thessalian plain with the Pindos mountains, playing an irreplaceable role in local trade and transport."
       },
       {
-        "id": "ecology",
-        "title": "Ekoloġija u Qbieli",
-        "content": "L-irdumijiet huma parti miż-żona protetta Natura 2000. Huma jospitaw pjanti indiġeni u speċijiet ta' għasafar migratorji. Din iż-żona hija importanti għall-bijodiversità ta' Malta."
+        "id": "architecture",
+        "title": "Architectural Marvel",
+        "content": "As the second largest single-arch stone bridge in Thessaly, it boasts a span of 29 meters, a maximum height of 13 meters from the water, and a deck width of 2.1 meters. Built primarily with local limestone (rubble masonry), its elegant semi-circular arch showcases the masterful skills of 16th-century craftsmen."
       },
       {
-        "id": "cultural",
-        "title": "Sinifikat Kulturali",
-        "content": "Id-Dingli Cliffs għandhom sinifikat kulturali fil-mitoloġija Maltija. Jingħad li l-gżira ta' Filfla, li tinsab 'il barra mill-kosta, kienet tinżamm minn ġganti fil-leġġendi tal-imgħoddi."
+        "id": "nature",
+        "title": "Stunning Natural Landscape",
+        "content": "The bridge is nestled in a narrow gorge of the Portaikos River, surrounded by the lush Pindos mountains. Massive centuries-old plane trees line the riverbanks, while crystal-clear waters rush beneath the arch, creating a picturesque natural scenery."
       },
       {
-        "id": "protection",
-        "title": "Protezzjoni u Konservazzjoni",
-        "content": "L-irdumijiet huma ġestiti mill-Awtorità għall-Ambjent u r-Riżorsi (ERA) u huma elenkati fil-katalgu nazzjonali tal-proprjetà kulturali (NICPMI). Huma protetti minn żvilupp eċċessiv."
+        "id": "nearby",
+        "title": "Nearby Attractions",
+        "content": "Close to the bridge, you can visit the 13th-century Byzantine church of Porta Panagia. The scenic mountain villages of Elati and Pertouli are also just a short drive away, offering perfect spots to experience local culture and traditional cuisine."
       }
     ]
   },
