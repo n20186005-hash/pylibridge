@@ -24,7 +24,6 @@ export default function PhotoSpotsSection() {
               key={index}
               title={spot.title}
               description={spot.description}
-              image={spot.image}
               location={spot.location}
               index={index + 1}
             />
@@ -35,44 +34,31 @@ export default function PhotoSpotsSection() {
   );
 }
 
-function PhotoSpotCard({ title, description, image, location, index }: { title: string; description: string; image?: string; location?: string; index: number }) {
+function PhotoSpotCard({ title, description, location, index }: { title: string; description: string; location?: string; index: number }) {
   return (
     <div
-      className="rounded-xl overflow-hidden"
+      className="rounded-xl p-6 relative overflow-hidden"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
-      {/* Image area */}
-      <div
-        className="aspect-video relative flex items-center justify-center overflow-hidden"
-        style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
-      >
-        {image ? (
-          <img src={image} alt={title} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
-        ) : (
-          <div className="text-center">
-            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">
-              <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
-              <circle cx="12" cy="13" r="4"/>
-            </svg>
-            <span className="text-4xl font-bold opacity-20" style={{ color: 'var(--accent)' }}>
-              {index}
-            </span>
-          </div>
-        )}
-        {location && (
-          <div className="absolute bottom-3 right-3 bg-black/60 backdrop-blur-sm px-3 py-1.5 rounded-full flex items-center gap-1.5">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
-              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
-              <circle cx="12" cy="10" r="3" />
-            </svg>
-            <span className="text-white text-xs font-medium">{location}</span>
-          </div>
-        )}
+      <div className="absolute -top-4 -right-4 text-8xl font-bold opacity-[0.03]" style={{ color: 'var(--accent)' }}>
+        {index}
       </div>
-      <div className="p-5">
-        <h3 className="font-semibold mb-2 text-lg" style={{ color: 'var(--text-primary)' }}>
-          {title}
-        </h3>
+      
+      <div className="relative z-10">
+        <div className="flex items-start justify-between gap-4 mb-3">
+          <h3 className="font-semibold text-lg" style={{ color: 'var(--text-primary)' }}>
+            {title}
+          </h3>
+          {location && (
+            <div className="flex-shrink-0 bg-black/5 dark:bg-white/10 px-2.5 py-1 rounded-full flex items-center gap-1.5">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{ color: 'var(--accent)' }}>
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                <circle cx="12" cy="10" r="3" />
+              </svg>
+              <span className="text-xs font-medium" style={{ color: 'var(--text-secondary)' }}>{location}</span>
+            </div>
+          )}
+        </div>
         <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
           {description}
         </p>

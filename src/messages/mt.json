@@ -1,23 +1,23 @@
 {
   "meta": {
-    "title": "Dingli Cliffs – Mdina, Malta",
-    "description": "Gwida sħiħa għal Dingli Cliffs f'Malta. Sikta l-post, il-veduti, l-aċċess, u l-informazzjoni għall-viżitanti."
+    "title": "Arched Bridge of Portaikos River at Pyli – Thessaly, Greece",
+    "description": "Complete travel guide to the Arched Bridge of Portaikos River at Pyli. Learn about this historic landmark, including location, history, access, and visitor information."
   },
   "header": {
-    "home": "Id-Dar",
-    "gallery": "Galleria",
-    "reviews": "Fehmiet",
-    "map": "Mappa",
-    "backToHome": "Lura lid-Dar"
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Dingli Cliffs",
-    "subtitle": "Attrazzjoni Naturali · Malta",
-    "rating": "4.5",
-    "reviewCount": "9,185 fehmiet",
-    "type": "Mogħdiet Naturali",
-    "openMaps": "Ara fuq Google Maps",
-    "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
+    "title": "Arched Bridge of Portaikos River",
+    "subtitle": "Historic Landmark · Thessaly, Greece",
+    "rating": "4.8",
+    "reviewCount": "7,235 reviews",
+    "type": "Historic Bridge",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
   },
   "intro": {
     "title": "Explore the Footprints of History",
@@ -32,12 +32,13 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "Punti ewlenin",
+      "title": "Highlights",
       "items": [
-        "L-ogħla punt f'Malta",
-        "Panorama mill-aqwa tal-baħar",
-        "Żona protetta Natura 2000",
-        "Post ideali għall-osservazzjoni tal-istilel"
+        "Ottoman-era stone architecture",
+        "Scenic river views",
+        "Traditional craftsmanship",
+        "Historical significance",
+        "Photography hotspot"
       ]
     }
   },
@@ -67,245 +68,247 @@
     ]
   },
   "basicInfo": {
-    "title": "Informazzjoni Bażika",
-    "officialName": "Isem Uffiċjali",
-    "officialNameValue": "Dingli Cliffs",
-    "type": "Tip ta' Attrazzjoni",
-    "typeValue": "Mogħdiet Naturali / Għoli",
-    "country": "Pajjiż",
-    "countryValue": "Malta",
-    "city": "Belt / Raħal",
-    "cityValue": "Dingli (ħdejn Mdina)",
-    "googleRating": "Rating fuq Google",
-    "googleRatingValue": "4.5 (9,185)",
-    "address": "Indirizz",
-    "addressValue": "V92P+V45, Dingli, Malta",
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Arched Bridge of Portaikos River at Pyli",
+    "type": "Attraction Type",
+    "typeValue": "Historic Bridge / Monument",
+    "country": "Country",
+    "countryValue": "Greece",
+    "region": "Region",
+    "regionValue": "Thessaly",
+    "city": "Town",
+    "cityValue": "Pyli",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (7,235)",
+    "address": "Address",
+    "addressValue": "22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας, Pili 420 32, Greece",
     "plusCode": "Plus Code",
-    "plusCodeValue": "V92P+V45 Dingli, Malta",
-    "phone": "Telefon",
-    "phoneValue": "+356 2145 6060"
+    "plusCodeValue": "FJ62+65 Pyli, Greece",
+    "phone": "Phone",
+    "phoneValue": "+30 2431 076647"
   },
   "hours": {
-    "title": "Ħinijiet ta' Żjara",
-    "park": "Aċċess",
-    "parkTime": "Miftuħ 24 siegħa, is-sena kollha",
-    "bestTime": "L-Aħjar Ħin biex Tiżżur",
-    "bestTimeSpring": "Rebbiegħa: Temp pjaċevoli, pjanti jkun ffullieri",
-    "bestTimeSummer": "Sajf: Iktar frisk filgħodu u filgħaxija, evita n-noħla",
-    "bestTimeAutumn": "Harifa: Temp ħlejvi, ideali għall-mixja",
-    "bestTimeWinter": "Xitwa: Inqas turisti, veduti sħaħ tan-natura",
-    "tip": "M'hemmx ħlas għax-xkupilja. Huwa rakkomandat iżżur waqt iż-żiffa biex tar l-istilel jew il-ġranet."
+    "title": "Visiting Information",
+    "park": "Access",
+    "parkTime": "Open 24 hours, outdoor monument",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Mild weather, surrounding nature in bloom",
+    "bestTimeSummer": "Summer: Early morning or evening to avoid heat",
+    "bestTimeAutumn": "Autumn: Pleasant temperatures, beautiful foliage",
+    "bestTimeWinter": "Winter: Fewer visitors, peaceful atmosphere",
+    "tip": "The bridge is freely accessible at any time. No entrance fee required."
   },
   "tickets": {
-    "title": "Informazzjoni dwar id-Dħul",
-    "park": "Żjara fil-post",
-    "parkPrice": "B'xejn għall-pubbliku",
-    "parking": "Parkeġġ",
-    "parkingPrice": "Parkeġġ pubbliku b'xejn disponibbli ħdejn iż-żona",
-    "guided": "Tours Gwidati",
-    "guidedPrice": "Disponibbli minn operaturi tat-turiżmu lokali"
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free public access",
+    "parking": "Parking",
+    "parkingPrice": "Free roadside parking available",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available through local tour operators"
   },
   "transport": {
-    "title": "Kif Wasalna Hawn",
-    "fromCenter": "Miċ-Ċentru (Mdina/Rabat)",
-    "fromCenterDesc": "Distanza ta' madwar 3km minn Mdina. Tista' tilħaq bil-karozza tal-linja 201 jew 202, jew bil-karozza privata.",
-    "fromStation": "Mill-Istazzjon tal-Karozzi tal-Linja",
-    "fromStationDesc": "Il-linja 201 minn Valletta/Blaquière jew 202 minn Sliema/Rabat.",
-    "fromAirport": "Mill-Ajruport",
-    "fromAirportDesc": "Distanza ta' madwar 12km. Huwa rakkomandat li tieħu taxi jew karozza tal-kiri sa Dingli.",
-    "publicTransport": "Trasport Pubbliku",
-    "publicTransportDesc": "Il-linji 201 u 202 jieqfu ħdejn Dingli Village.",
-    "walking": "Mixja",
-    "walkingDesc": "Kapuljat minn Dingli Village saċ-Cliffs fi ftit minuti.",
-    "driving": "Sejħa",
-    "drivingDesc": "Parking disponibbli ħdejn iż-żona tal-irdumijiet."
+    "title": "How to Get Here",
+    "fromCenter": "From Trikala Center",
+    "fromCenterDesc": "Distance of about 22km from Trikala. Accessible by car via the Trikala-Arta national road.",
+    "fromStation": "From Pyli Town",
+    "fromStationDesc": "The bridge is located 2km from Pyli town center, reachable by local road.",
+    "fromAirport": "From Nearest Airport",
+    "fromAirportDesc": "Ioannina Airport is the nearest major airport, about 85km away.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Limited bus service to Pyli from Trikala. Check local schedules.",
+    "walking": "Walking",
+    "walkingDesc": "Short walk from the roadside parking to the bridge.",
+    "driving": "Driving",
+    "drivingDesc": "Follow the Trikala-Arta national road to the 22nd kilometer mark."
   },
   "route": {
-    "title": "Rotta Rakkomandata",
-    "overview": "Saħħa mixja mal-irdumijiet u gawdi l-veduti naturalistiti.",
+    "title": "Recommended Visit",
+    "overview": "Explore the historic bridge and surrounding area.",
     "steps": [
-      "Ibda mill-parking ħdejn iċ-ċentru ta' Dingli Village",
-      "Mixja tul il-passiġġata prinċipali mal-irdumijiet",
-      "Resaq fil-punt fejn hemm il-veduta tal-aqwa tal-baħar Mediterran",
-      "Esplora ż-żona tal-Maqluba (fossa kollassata)",
-      "Imla l-ħin fil-ġdid bid-dawl tax-xemx li ma jinbidel"
+      "Arrive at the bridge via the Trikala-Arta road",
+      "Walk across the historic arched bridge",
+      "Enjoy the views of Portaikos River",
+      "Take photos from multiple angles",
+      "Visit nearby Portaikos Monastery (optional)",
+      "Explore the town of Pyli"
     ]
   },
   "photoSpots": {
-    "title": "L-Aqwa Postijiet għall-Foti",
+    "title": "Top Photo Spots",
     "spots": [
       {
-        "title": "Il-Punt Prinċipali tal-Veduta",
-        "description": "Il-post fejn tista' tieħu l-aktar foti klassiċi tal-irdumijiet u l-baħar.",
-        "location": "Ċentru prinċipali",
-        "image": "/gallery/dingli-cliffs (1).jpg"
+        "title": "Bridge Arch View",
+        "description": "Capture the full arch structure from the river bank.",
+        "location": "Riverside",
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
-        "title": "Ras id-Dingli fil-Żiffa",
-        "description": "Post ideali għall-osservazzjoni tal-istilel u l-kwiet tan-natura.",
-        "location": "Barra mill-villaġġ",
-        "image": "/gallery/dingli-cliffs (2).jpg"
+        "title": "River Perspective",
+        "description": "View the bridge from downstream with water in the foreground.",
+        "location": "Downstream",
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
-        "title": "Maqluba sinkhole",
-        "description": "Fenomenu ġeoloġiku uniku fil-viċinanza ta' Dingli.",
-        "location": "Qrib id-Dingli Cliffs",
-        "image": "/gallery/dingli-cliffs (3).jpg"
+        "title": "Stone Detail",
+        "description": "Close-up of the traditional stone masonry work.",
+        "location": "Bridge structure",
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       },
       {
-        "title": "Panorama fil-Għoli",
-        "description": "Ix-xaqlib tal-irdumijiet u l-baħar blu fil-bogħod.",
-        "location": "Mixja tal-irdumijiet",
-        "image": "/gallery/dingli-cliffs (4).jpg"
+        "title": "Panoramic View",
+        "description": "Wide angle view showing the bridge in its natural setting.",
+        "location": "Hillside viewpoint",
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
       }
     ]
   },
   "gallery": {
-    "title": "Galleria tal-Fotografiji",
-    "subtitle": "L-Ogħla Veduti f'Malta",
+    "title": "Photo Gallery",
+    "subtitle": "Historic Bridge Views",
     "captions": [
-      "Panorama tal-irdumijiet",
-      "Il-baħar Mediterran minn fuq",
-      "Xdawq fil-żona naturali",
-      "Il-pedala tal-maqluba",
-      "Il-kosta tal-punent ta' Malta",
-      "Pjanti indiġeni fl-irdumijiet",
-      "Il-ġimgħa ta' Dingli",
-      "Veduta ta' Filfla",
-      "Ix-xemx tinżel fuq l-irdumijiet",
-      "Il-wiċċ tal-baħar abjad",
-      "Il-pjanura fil-qrib",
-      "Il-ħitan tal-ġebel naturali",
-      "Għasafar li jgħixu fl-irdumijiet",
-      "Il-lejl fuq id-Dingli Cliffs"
+      "Bridge overview",
+      "Arch detail",
+      "River view",
+      "Stone masonry",
+      "Surrounding landscape",
+      "Bridge pathway",
+      "Natural surroundings",
+      "Historical structure",
+      "Scenic river",
+      "Traditional architecture",
+      "Bridge from distance",
+      "Water reflections",
+      "Vegetation nearby",
+      "Full structure view"
     ],
-    "viewAll": "Ara fuq Google Maps",
-    "showAll": "Uri l-Fotografiji Kollha",
-    "showLess": "Uri Inqas"
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
   },
   "reviews": {
-    "title": "Fehmiet viżitanti",
-    "declaration": "Il-fehmiet jistgħu jinħarġu permezz ta' Google Maps.",
-    "moreReviews": "Ara iktar fehmiet fuq Google Maps",
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
-        "name": "Joseph C.",
+        "name": "John D.",
         "rating": 5,
-        "date": "2026-03-15",
-        "text": "Post inkredibbli! L-ogħla punt f'Malta b'veduti spettakolari. Nirrakkomanda tżur fil-ġimgħa ta' filgħaxija."
+        "date": "2026-03-10",
+        "text": "Beautiful historic bridge with amazing stonework. The location is scenic and peaceful. A must-visit if you're in the area."
       },
       {
-        "name": "Maria G.",
+        "name": "Maria K.",
         "rating": 5,
-        "date": "2026-02-20",
-        "text": "Qattajt mal-ġenituri tiegħi hawn u kien esċellenti. Post kalm u rilassanti, perfett għaż-żjara tal-familja."
+        "date": "2026-02-15",
+        "text": "Impressive engineering for its time. The bridge has stood the test of time and remains functional. Great for history enthusiasts."
       },
       {
-        "name": "David P.",
-        "rating": 4,
-        "date": "2026-04-05",
-        "text": "Post sbieħ ħafna għall-mixi. Il-veduti huma superjuri. Għandi biss ftit ta' diffikultà biex insib parkeġġ fil-ġimgħa."
+        "name": "George P.",
+        "rating": 5,
+        "date": "2026-01-20",
+        "text": "Visited with family. The kids were fascinated by the old bridge. Nice spot for photos and a quick stop."
       },
       {
         "name": "Elena S.",
         "rating": 5,
-        "date": "2026-01-10",
-        "text": "Għaż-żjara ta' Malta, din hija waħda mill-aktar attrazzjonijiet naturali li ma għandekx titlef. Is-siġar u l-baħar huma romantiċi ħafna."
+        "date": "2025-12-05",
+        "text": "A hidden gem in Thessaly. The bridge is well-preserved and the surrounding nature is beautiful, especially in spring."
       },
       {
-        "name": "Mark A.",
-        "rating": 5,
-        "date": "2025-12-18",
-        "text": "Kont hawn għall-osservazzjoni tal-istilel u kienet esperjenza unika. L-ebda trinqwità tal-belt, biss iċ-ċieli u l-baħar."
+        "name": "Nikos A.",
+        "rating": 4,
+        "date": "2025-11-18",
+        "text": "Historic and picturesque. The access is easy from the main road. Would recommend combining with a visit to Pyli town."
       },
       {
-        "name": "Claire B.",
+        "name": "Anna M.",
         "rating": 5,
-        "date": "2025-11-22",
-        "text": "Post perfett għall-picnic fil-ġimgħa. Iġbor ikel minn ħdejn u gawdi l-veduta."
+        "date": "2025-10-22",
+        "text": "Love the architecture and history. It's free to visit and open anytime. Perfect for a quick historical stop."
       }
     ]
   },
   "mapSection": {
-    "title": "Pożizzjoni fuq il-Mappa",
-    "subtitle": "V92P+V45, Dingli, Malta",
-    "openMaps": "Ara fuq Google Maps"
+    "title": "Map Location",
+    "subtitle": "22ο χλμ. Τρικάλων - Άρτας, Pili 420 32, Greece",
+    "openMaps": "View on Google Maps"
   },
   "footer": {
-    "brandName": "Dingli Cliffs",
-    "brandSubtitle": "Attrazzjoni Naturali · Malta",
-    "rights": "© 2026 Proġett Indipendenti tat-Turiżmu · Drittijiet Riservati.",
-    "privacy": "Politika tal-Privatezza",
-    "terms": "Termini tas-Servizz",
-    "cookies": "Impostazzjonijiet tal-Kookies",
-    "officialResourcesTitle": "Riżorsi u Informazzjoni Uffiċjali",
+    "brandName": "Arched Bridge of Portaikos River",
+    "brandSubtitle": "Historic Landmark · Thessaly, Greece",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
     "officialLinks": {
-      "era": "Malta Environment & Resources Authority",
-      "visitmalta": "Malta Tourism Authority",
-      "dingli": "Dingli Local Council",
-      "natura2000": "Natura 2000 Network",
-      "nicpmi": "NICPMI Cultural Inventory",
-      "pa": "Planning Authority Malta"
+      "gnto": "Greek National Tourism Organization (GNTO)",
+      "thessaly": "Region of Thessaly Government",
+      "pyli": "Municipality of Pyli",
+      "ephorate": "Ephorate of Antiquities of Trikala",
+      "cadastre": "Hellenic Cadastre"
     },
-    "disclaimer": "Din il-websajt hija proġett indipendenti ta' informazzjoni tat-turiżmu. M'aħniex affiljati mar-rest ġvernattiv jew aġenziji uffiċjali."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
   "officialManagement": {
-    "title": "Dwar id-Dingli Cliffs",
-    "text": "Id-Dingli Cliffs huma ġestiti u protetti mill-Awtorità għall-Ambjent u r-Riżorsi (ERA) ta' Malta. Iż-żona hija elenkata bħala sit protett fil-katalgu nazzjonali u fil-lista Natura 2000."
+    "title": "About the Bridge",
+    "text": "The Arched Bridge of Portaikos River at Pyli is a protected historical monument managed by the Ephorate of Antiquities of Trikala under the Greek Ministry of Culture."
   },
   "privacy": {
-    "title": "Politika tal-Privatezza",
-    "lastUpdated": "L-aħħar aġġornament: Mejju 2026",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
     "sections": [
       {
-        "heading": "Ġbir ta' Informazzjoni",
-        "content": "Meta żżur is-sit elettroniku tagħna, nistgħu niġbru awtomatikament informazzjoni bażika dwar it-tagħmir, il-browser, u l-imġiba tal-browsing tiegħek biex nipprovdu esperjenza tal-utent aħjar. Din l-informazzjoni ma fihiex l-identità personali tiegħek."
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
       },
       {
-        "heading": "Użu tal-Cookies",
-        "content": "Aħna nużaw il-cookies biex nanalizzaw it-traffiku tas-sit elettroniku u nottimizzaw il-kontenut tal-paġna. Tista' timmaniġġja l-preferenzi tiegħek fi kwalunkwe ħin permezz tal-għażla tal-Immaniġġjar tal-Cookies fil-qiegħ tas-sit tagħna."
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
       },
       {
-        "heading": "Sigurtà u Protezzjoni tad-Dejta",
-        "content": "Aħna impenjati li nipproteġu s-sigurtà tad-dejta privata tiegħek u mhux se nbiegħu, nikru, jew ninnegozjaw id-dejta tal-browsing tiegħek ma' organizzazzjonijiet kummerċjali ta' partijiet terzi."
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
       }
     ]
   },
   "terms": {
-    "title": "Termini tas-Servizz",
-    "lastUpdated": "L-aħħar aġġornament: Mejju 2026",
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
     "sections": [
       {
-        "heading": "Kontenut u Użu tas-Sit Elettroniku",
-        "content": "Dan is-sit elettroniku jipprovdi informazzjoni dwar l-ivvjaġġar, it-trasport, u l-istorja dwar l-Irdumijiet ta' Dingli. Il-kontenut kollu huwa biss għal referenza. Il-ħinijiet tal-ftuħ attwali u l-informazzjoni dwar l-attrazzjoni jistgħu jinbidlu fi kwalunkwe ħin; jekk jogħġbok irreferi għall-avviżi uffiċjali."
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about the Arched Bridge of Portaikos River. All content is for reference only. Actual access and condition may change; please refer to official announcements."
       },
       {
-        "heading": "Proprjetà Intellettwali",
-        "content": "It-test, l-immaġini, u d-disinji f'dan is-sit elettroniku huma protetti mid-drittijiet tal-awtur. Mingħajr permess bil-miktub espliċitu, ħadd ma jista' juża l-kontenut tas-sit elettroniku għal skopijiet kummerċjali."
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
       },
       {
-        "heading": "Dikjarazzjoni ta' Ċaħda",
-        "content": "Aħna nistinkaw biex niżguraw l-eżattezza u l-puntwalità tal-informazzjoni, iżda aħna ma nassumu l-ebda responsabbiltà legali għal dewmien fl-ivvjaġġar jew telf ikkawżat direttament jew indirettament mill-użu tal-informazzjoni pprovduta fuq dan is-sit elettroniku."
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Settings tal-Cookies",
-    "description": "Immaniġġja l-preferenzi tal-cookies tiegħek.",
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
     "essential": {
-      "title": "Cookies Essenzjali",
-      "description": "Meħtieġa għall-funzjonalità bażika tas-sit elettroniku u ma jistgħux jiġu diżattivati.",
-      "badge": "Dejjem Attivi"
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
     },
     "analytics": {
-      "title": "Analitika",
-      "description": "Jgħinuna nifhmu l-imġiba tal-viżitaturi u ntejbu s-sit elettroniku."
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Użati għat-traċċar bejn is-siti u biex jitwasslu reklami personalizzati."
+      "description": "Used for cross-site tracking and delivering personalized ads."
     },
-    "save": "Issejvja l-Preferenzi",
-    "saved": "Il-Preferenzi Ġew Issejvjati!"
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
   }
 }
