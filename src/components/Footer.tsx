@@ -26,6 +26,9 @@ export default function Footer() {
             <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
               {t('officialResourcesTitle')}
             </h3>
+            <p className="text-sm mb-3" style={{ color: 'var(--text-muted)' }}>
+              {t('officialIntro')}
+            </p>
             <div className="flex flex-col gap-2">
               <a href="https://www.visitgreece.gr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {officialLinks.gnto || 'Greek National Tourism Organization (GNTO)'}
@@ -62,6 +65,7 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
+          <p className="text-xs">{t('updated')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
         </div>
       </div>

@@ -1,11 +1,11 @@
 import { useTranslations, useMessages } from 'next-intl';
 
 const sectionImages = [
-  '/gallery/arched-bridge-of-portaikos-river-at-pyli-8.jpg',
-  '/gallery/arched-bridge-of-portaikos-river-at-pyli-3.jpg',
-  '/gallery/arched-bridge-of-portaikos-river-at-pyli-4.jpg',
-  '/gallery/arched-bridge-of-portaikos-river-at-pyli-12.jpg',
-  '/gallery/arched-bridge-of-portaikos-river-at-pyli-5.jpg'
+  { src: '/gallery/arched-bridge-of-portaikos-river-at-pyli-8.webp', width: 1600, height: 2133 },
+  { src: '/gallery/arched-bridge-of-portaikos-river-at-pyli-3.webp', width: 1600, height: 2133 },
+  { src: '/gallery/arched-bridge-of-portaikos-river-at-pyli-4.webp', width: 1600, height: 1200 },
+  { src: '/gallery/arched-bridge-of-portaikos-river-at-pyli-12.webp', width: 1600, height: 1600 },
+  { src: '/gallery/arched-bridge-of-portaikos-river-at-pyli-5.webp', width: 1600, height: 901 }
 ];
 
 export default function InfoSection() {
@@ -14,7 +14,7 @@ export default function InfoSection() {
   const sections = (messages?.knowledge?.sections || []) as Array<{ id: string; title: string; content: string }>;
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="info" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6 text-center"
@@ -34,8 +34,12 @@ export default function InfoSection() {
               <div className="flex-1 w-full relative">
                 <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                   <img 
-                    src={sectionImages[index % sectionImages.length]} 
+                    src={sectionImages[index % sectionImages.length].src}
                     alt={section.title}
+                    width={sectionImages[index % sectionImages.length].width}
+                    height={sectionImages[index % sectionImages.length].height}
+                    loading="lazy"
+                    decoding="async"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                   />
                 </div>

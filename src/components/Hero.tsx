@@ -10,8 +10,12 @@ export default function Hero() {
       {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg"
-          alt="Arched Bridge of Portaikos River"
+          src="/gallery/arched-bridge-of-portaikos-river-at-pyli-1.webp"
+          alt={t('imageAlt') || 'Arched Bridge of Portaikos River at Pyli - Main view in Pyli, Thessaly, Greece'}
+          width={1600}
+          height={1200}
+          fetchPriority="high"
+          decoding="async"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

@@ -48,7 +48,7 @@ export default function Gallery() {
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);
 
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/7kurr3qMaSgWhNA59';
+  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6';
 
   return (
     <>
@@ -77,9 +77,12 @@ export default function Gallery() {
                   <img
                     src={photo.src}
                     alt={photo.alt}
+                    width={1200}
+                    height={800}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -175,6 +178,8 @@ export default function Gallery() {
           <img
             src={galleryPhotos[currentIndex].src}
             alt={galleryPhotos[currentIndex].alt}
+            width={1600}
+            height={1067}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />

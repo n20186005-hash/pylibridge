@@ -28,14 +28,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Arched+Bridge+of+Portaikos+River+Pyli+Greece&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.388764420298!2d21.6004!3d39.4605452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13593b89f50dcb07%3A0xd946fe01c3ea4249!2sArched%20Bridge%20of%20Portaikos%20River%20at%20Pyli!5e0!3m2!1szh-CN!2s!4v1788165819352!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Arched Bridge of Portaikos River"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Arched Bridge of Portaikos River at Pyli"
           />
         </div>
 

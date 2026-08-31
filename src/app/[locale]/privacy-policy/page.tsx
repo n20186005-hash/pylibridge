@@ -11,9 +11,7 @@ export async function generateMetadata({
   const baseUrl = 'https://pylibridge.com';
   const zhUrl = `${baseUrl}/zh/privacy-policy`;
   const enUrl = `${baseUrl}/en/privacy-policy`;
-  const mtUrl = `${baseUrl}/mt/privacy-policy`;
-  const itUrl = `${baseUrl}/it/privacy-policy`;
-  const esUrl = `${baseUrl}/es/privacy-policy`;
+  const elUrl = `${baseUrl}/el/privacy-policy`;
   const selfUrl = `${baseUrl}/${locale}/privacy-policy`;
 
   return {
@@ -22,10 +20,8 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'el': elUrl,
+        'x-default': elUrl,
       },
     },
   };

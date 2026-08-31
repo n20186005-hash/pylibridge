@@ -5,16 +5,39 @@
   },
   "header": {
     "home": "Home",
+    "history": "History",
+    "facilities": "Facilities",
     "gallery": "Gallery",
-    "reviews": "Reviews",
+    "faq": "FAQ",
     "map": "Map",
+    "reviews": "Reviews",
     "backToHome": "Back to Home"
   },
+  "toc": {
+    "title": "On This Page",
+    "items": [
+      { "id": "overview", "label": "Overview" },
+      { "id": "basicInfo", "label": "Basic Info" },
+      { "id": "hours", "label": "Hours" },
+      { "id": "tickets", "label": "Tickets" },
+      { "id": "transport", "label": "Getting There" },
+      { "id": "facilities", "label": "Facilities" },
+      { "id": "info", "label": "Knowledge" },
+      { "id": "history", "label": "History & Legend" },
+      { "id": "route", "label": "Visiting Route" },
+      { "id": "photoSpots", "label": "Photo Spots" },
+      { "id": "gallery", "label": "Gallery" },
+      { "id": "reviews", "label": "Reviews" },
+      { "id": "faq", "label": "FAQ" },
+      { "id": "map", "label": "Map" }
+    ]
+  },
   "hero": {
-    "title": "Arched Bridge of Portaikos River",
-    "subtitle": "Historic Landmark · Thessaly, Greece",
+    "title": "Arched Bridge of Portaikos River at Pyli",
+    "subtitle": "Historic Landmark · Pyli, Thessaly, Greece",
+    "imageAlt": "Arched Bridge of Portaikos River at Pyli - Main view in Pyli, Thessaly, Greece",
     "rating": "4.8",
-    "reviewCount": "7,235 reviews",
+    "reviewCount": "7,379 reviews",
     "type": "Historic Bridge",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
@@ -42,6 +65,16 @@
       ]
     }
   },
+  "entity": {
+    "statement": "Welcome to the Arched Bridge of Portaikos River at Pyli, widely recognized as the historic Arched Bridge of Portaikos River. Located at the 22nd km of the Trikala-Arta national road in the town of Pyli, Thessaly, Greece, this 16th-century single-arch stone bridge is one of the region's most treasured landmarks.",
+    "nearby": "When visiting the Arched Bridge of Portaikos River at Pyli, visitors can easily explore surrounding historical landmarks and points of interest, including the 13th-century Byzantine monastery of Porta Panagia and the scenic mountain villages of Elati and Pertouli.",
+    "hierarchy": [
+      "Arched Bridge of Portaikos River at Pyli",
+      "Pyli",
+      "Thessaly",
+      "Greece"
+    ]
+  },
   "knowledge": {
     "title": "Discover the Portaikos River Bridge",
     "sections": [
@@ -64,7 +97,71 @@
         "id": "nearby",
         "title": "Nearby Attractions",
         "content": "Close to the bridge, you can visit the 13th-century Byzantine church of Porta Panagia. The scenic mountain villages of Elati and Pertouli are also just a short drive away, offering perfect spots to experience local culture and traditional cuisine."
+      },
+      {
+        "id": "protection",
+        "title": "Protected Heritage",
+        "content": "The bridge is a declared protected historical monument supervised by the Ephorate of Antiquities of Trikala under the Greek Ministry of Culture. Restoration campaigns in 1968, 1983 and 2005-2006 have preserved its original 16th-century masonry for visitors today."
+      },
+      {
+        "id": "explore",
+        "title": "Experience It Today",
+        "content": "Visitors can walk across the bridge, follow the riverside trails, and even swim or fish in the clear waters of the Portaikos River, as locals have done for generations. Benches beneath the plane trees invite you to pause and enjoy the sound of the water."
       }
+    ]
+  },
+  "story": {
+    "title": "History, Legend & Legacy",
+    "intro": "Few monuments tell the story of an entire region like the Arched Bridge of Portaikos River at Pyli. Its stones speak of a 16th-century saint, a vital trade route, and the enduring bond between the Thessalian plain and the mountains of Pindos.",
+    "legendTitle": "The Legend of Saint Vissarion's Bridge",
+    "legend": "Local tradition (παράδοση) holds that the bridge was built in 1514 by Vissarion, who later became Metropolitan of Larissa and is venerated as Saint Vissarion, the patron saint of the Trikala region. A marble inscription set into the bridge's base still records this founding year and his name, making it one of the best-documented medieval bridges in Thessaly. According to tradition, the bridge was conceived to open a safe crossing for travelers, traders and villagers between the Thessalian plain and the mountain communities of Epirus — a purpose it faithfully served for more than four centuries.",
+    "whyTitle": "Why \"Porta\"? A Gate to the Mountains",
+    "why": "The bridge's Greek name — \"Porta\" (gate) — is no accident. It stands where the Portaikos River cuts a narrow gorge through the mountains, forming a natural gateway to the high villages of Koziakas. Whoever passed from the plain into the mountains had to cross here, which is why the town of Pyli itself takes its name from the Greek word \"pyli\" (Πύλη), meaning \"gate\".",
+    "bioTitle": "Saint Vissarion: The Man Behind the Bridge",
+    "bio": "Born around 1490 in Megala Pyla (the settlement around today's Porta Panagia), Vissarion entered monastic life as a youth and later became Metropolitan of Larissa (1520). He rebuilt churches, founded schools, cared for the poor, and established the Monastery of the Holy Saviour, known as Dousiko Monastery, near his birthplace — endowed with foundation charters confirmed by the Ecumenical Patriarchate in 1536. The marble inscription of 1514 on the Pyli bridge records his name as its founder. He reposed on 15 September 1540 and is venerated as Saint Vissarion, wonderworker and patron saint of the Trikala region.",
+    "craftTitle": "Engineering of a Single Arch",
+    "craft": "The bridge is a single semicircular arch with a span of 28.76 m and a rise of 12.77 m — among the largest in Thessaly. Its fabric is dry-laid rubble masonry (αργολιθοδομή) of local limestone and sandstone; the arch ring is built from roughly shaped stones without any metal ties. The gently humpbacked deck, only 2.10 m wide, rises toward the crown to help distribute the load, while triangular cutwaters shield the pier bases from floods. For more than 500 years it has withstood river floods and earthquakes.",
+    "timelineTitle": "Timeline",
+    "timeline": [
+      {
+        "year": "1514",
+        "title": "Construction",
+        "desc": "The bridge is built with local limestone and sandstone under the sponsorship of Vissarion, as recorded on a marble inscription."
+      },
+      {
+        "year": "1514-1936",
+        "title": "The Only Crossing",
+        "desc": "For more than four centuries, the bridge is the sole link between the Thessalian plain and Epirus, carrying trade, livestock and people."
+      },
+      {
+        "year": "1936",
+        "title": "A New Road Bridge",
+        "desc": "The opening of a modern road bridge relieves the old stone bridge of traffic; it remains a treasured historic monument."
+      },
+      {
+        "year": "1968-1983",
+        "title": "First Restorations",
+        "desc": "Two restoration campaigns stabilize the historic structure."
+      },
+      {
+        "year": "2005-2006",
+        "title": "Modern Restoration",
+        "desc": "A comprehensive restoration and landscaping project returns the bridge to excellent condition."
+      },
+      {
+        "year": "Today",
+        "title": "Protected Monument",
+        "desc": "The bridge is a declared protected historical monument, managed by the Ephorate of Antiquities of Trikala."
+      }
+    ],
+    "factsTitle": "Dimensions at a Glance",
+    "facts": [
+      { "label": "Total length", "value": "65.67 m" },
+      { "label": "Arch span", "value": "28.76 m" },
+      { "label": "Arch height", "value": "12.77 m" },
+      { "label": "Deck width", "value": "2.10 m" },
+      { "label": "Built", "value": "1514" },
+      { "label": "Material", "value": "Limestone" }
     ]
   },
   "basicInfo": {
@@ -80,7 +177,7 @@
     "city": "Town",
     "cityValue": "Pyli",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (7,235)",
+    "googleRatingValue": "4.8 (7,379)",
     "address": "Address",
     "addressValue": "22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας, Pili 420 32, Greece",
     "plusCode": "Plus Code",
@@ -123,6 +220,53 @@
     "driving": "Driving",
     "drivingDesc": "Follow the Trikala-Arta national road to the 22nd kilometer mark."
   },
+  "facilities": {
+    "title": "Visitor Facilities & Nearby Services",
+    "subtitle": "Neutral, type-based guidance. As a non-profit science-popularization website, we do not endorse any specific businesses.",
+    "note": "Please note: the information above describes service types only. Availability may vary by season, so we recommend confirming locally before your visit.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Public Toilets",
+        "desc": "There are no dedicated public toilets directly at the bridge. The nearest public restrooms are in the town of Pyli (about 2 km away) and at fuel stations along the national road."
+      },
+      {
+        "id": "parking",
+        "title": "Parking",
+        "desc": "Free roadside parking and a small parking area are available near the bridge. Spaces are limited, so arriving by car in the morning is recommended."
+      },
+      {
+        "id": "dining",
+        "title": "Dining",
+        "desc": "Traditional Greek tavernas, cafés and bakeries can be found in Pyli town. A short walk from the bridge, small cafés overlooking the river offer drinks and light snacks."
+      },
+      {
+        "id": "lodging",
+        "title": "Accommodation",
+        "desc": "Hotels, guesthouses and traditional mountain lodges are available in Pyli and the nearby mountain villages (e.g. Elati and Pertouli), about 20-40 minutes by car."
+      },
+      {
+        "id": "shopping",
+        "title": "Grocery & Shops",
+        "desc": "Supermarkets, mini markets and local produce shops (including traditional local sweets) are available in Pyli town. The nearest ATM is also located there."
+      },
+      {
+        "id": "fuel",
+        "title": "Fuel & EV Charging",
+        "desc": "Fuel stations are available in Pyli and along the Trikala-Arta national road. Public EV chargers are scarce near the bridge; charging in Trikala is recommended."
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility & Mobility",
+        "desc": "The bridge deck is stone-paved and reached by a short cobbled path from the road. The surface is uneven, with no ramps or handrails, so it is not suitable for wheelchairs or strollers; the bridge is best admired from the roadside viewpoint."
+      },
+      {
+        "id": "pets",
+        "title": "Pets",
+        "desc": "Pets are allowed on the riverside and the bridge, kept on a leash. There is no dedicated water point or waste station for pets, so please carry water and take any waste with you."
+      }
+    ]
+  },
   "route": {
     "title": "Recommended Visit",
     "overview": "Explore the historic bridge and surrounding area.",
@@ -131,7 +275,7 @@
       "Walk across the historic arched bridge",
       "Enjoy the views of Portaikos River",
       "Take photos from multiple angles",
-      "Visit nearby Portaikos Monastery (optional)",
+      "Visit the nearby Porta Panagia monastery (optional)",
       "Explore the town of Pyli"
     ]
   },
@@ -142,25 +286,25 @@
         "title": "Bridge Arch View",
         "description": "Capture the full arch structure from the river bank.",
         "location": "Riverside",
-        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg"
       },
       {
         "title": "River Perspective",
         "description": "View the bridge from downstream with water in the foreground.",
         "location": "Downstream",
-        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-6.jpg"
       },
       {
         "title": "Stone Detail",
         "description": "Close-up of the traditional stone masonry work.",
         "location": "Bridge structure",
-        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-13.jpg"
       },
       {
         "title": "Panoramic View",
         "description": "Wide angle view showing the bridge in its natural setting.",
         "location": "Hillside viewpoint",
-        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-.jpg"
+        "image": "/gallery/arched-bridge-of-portaikos-river-at-pyli-8.jpg"
       }
     ]
   },
@@ -181,7 +325,11 @@
       "Bridge from distance",
       "Water reflections",
       "Vegetation nearby",
-      "Full structure view"
+      "Full structure view",
+      "Winter scene",
+      "Riverside panorama",
+      "Dusk over the arch",
+      "Landmark from the road"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -230,15 +378,84 @@
       }
     ]
   },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Where is the Arched Bridge of Portaikos River at Pyli located?",
+        "a": "The Arched Bridge of Portaikos River is located at the 22nd km of the Trikala-Arta national road, in the town of Pyli, Thessaly, Greece (Plus Code FJ62+65, Pili 420 32)."
+      },
+      {
+        "q": "Is the Arched Bridge of Portaikos River free to visit?",
+        "a": "Yes. The Arched Bridge of Portaikos River is a public open-air monument and is free to visit at any time, year-round. No entrance ticket is required."
+      },
+      {
+        "q": "What is the history of the Pyli bridge?",
+        "a": "The bridge was built in 1514 during the Ottoman era, funded and overseen by Saint Vissarion (Agios Vissarion), Metropolitan of Larissa. Until 1936 it was the only crossing connecting the Thessalian plain with the Pindos mountain villages, playing a vital role in local trade and transport."
+      },
+      {
+        "q": "Is there parking and are there public toilets at the bridge?",
+        "a": "Free roadside parking is available near the bridge. There is no dedicated public toilet at the site itself; the nearest public restrooms are in Pyli town (about 2 km away) and at fuel stations along the national road."
+      },
+      {
+        "q": "Are there restaurants or places to eat near the bridge?",
+        "a": "Yes. Traditional Greek tavernas, cafés and bakeries can be found in Pyli town, and small cafés overlooking the river operate a short walk from the bridge. As a non-profit educational website, we describe service types only and do not recommend specific businesses."
+      },
+      {
+        "q": "Can I charge an electric vehicle near the bridge?",
+        "a": "Public EV chargers are scarce in the immediate area. Fuel stations are available in Pyli town and along the Trikala-Arta road. If you drive an electric vehicle, charging in Trikala before your visit is recommended."
+      }
+    ]
+  },
   "mapSection": {
     "title": "Map Location",
     "subtitle": "22ο χλμ. Τρικάλων - Άρτας, Pili 420 32, Greece",
     "openMaps": "View on Google Maps"
   },
+  "sources": {
+    "title": "Sources & Credits",
+    "subtitle": "This is an independent, non-profit educational website. The information presented here is compiled from the official public sources listed below.",
+    "legendNote": "Note on sources: the bridge's construction year (1514) and the name of its founder are recorded on a marble inscription set into the bridge itself. Stories about Saint Vissarion's life draw on local tradition and hagiography; where historical and legendary accounts differ, this is noted in the text.",
+    "items": [
+      {
+        "name": "Greek National Tourism Organization (GNTO)",
+        "url": "https://www.visitgreece.gr/",
+        "desc": "The official Greek tourism body; general information on Thessaly destinations."
+      },
+      {
+        "name": "Ministry of Culture of Greece",
+        "url": "https://www.culture.gov.gr/el/SitePages/default.aspx",
+        "desc": "Official registry of protected monuments and national heritage policy."
+      },
+      {
+        "name": "Ephorate of Antiquities of Trikala",
+        "url": "https://www.culture.gov.gr/el/SitePages/default.aspx",
+        "desc": "The public authority responsible for the conservation and management of the bridge."
+      },
+      {
+        "name": "Municipality of Pyli",
+        "url": "https://dimospylis.gr/",
+        "desc": "The local municipality covering the town of Pyli and the bridge site."
+      },
+      {
+        "name": "Region of Thessaly",
+        "url": "https://www.pthes.gov.gr/",
+        "desc": "The regional authority; tourism and territorial information for Thessaly."
+      },
+      {
+        "name": "Hellenic Cadastre",
+        "url": "https://www.arxaiologikoktimatologio.gov.gr/",
+        "desc": "Public registry of archaeological sites and protected properties."
+      }
+    ],
+    "dateNote": "Data and content last reviewed: 31 August 2026."
+  },
   "footer": {
     "brandName": "Arched Bridge of Portaikos River",
+    "officialIntro": "For official updates and regional tourism information, visit the official portals below:",
     "brandSubtitle": "Historic Landmark · Thessaly, Greece",
     "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "updated": "Content last updated: 31 August 2026.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -258,7 +475,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: 31 August 2026",
     "sections": [
       {
         "heading": "Information Collection",
@@ -276,7 +493,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: 31 August 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
