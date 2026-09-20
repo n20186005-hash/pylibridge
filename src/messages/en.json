@@ -1,12 +1,13 @@
 {
   "meta": {
-    "title": "Arched Bridge of Portaikos River at Pyli – Thessaly, Greece",
-    "description": "Complete travel guide to the Arched Bridge of Portaikos River at Pyli. Learn about this historic landmark, including location, history, access, and visitor information."
+    "title": "Arched Bridge of Portaikos River at Pyli, Trikala | History & Visiting Guide",
+    "description": "Historic 16th-century stone bridge over the Portaikos River at Pyli, Trikala. Free entry, free parking, how to get from Trikala, best time to visit and map."
   },
   "header": {
     "home": "Home",
     "history": "History",
     "facilities": "Facilities",
+    "weather": "Weather",
     "gallery": "Gallery",
     "faq": "FAQ",
     "map": "Map",
@@ -20,10 +21,14 @@
       { "id": "basicInfo", "label": "Basic Info" },
       { "id": "hours", "label": "Hours" },
       { "id": "tickets", "label": "Tickets" },
+      { "id": "weather", "label": "Weather" },
+      { "id": "seasons", "label": "Seasonal Guide" },
       { "id": "transport", "label": "Getting There" },
       { "id": "facilities", "label": "Facilities" },
       { "id": "info", "label": "Knowledge" },
       { "id": "history", "label": "History & Legend" },
+      { "id": "responsibility", "label": "Science & Care" },
+      { "id": "audiences", "label": "Routes by Traveller" },
       { "id": "route", "label": "Visiting Route" },
       { "id": "photoSpots", "label": "Photo Spots" },
       { "id": "gallery", "label": "Gallery" },
@@ -37,7 +42,7 @@
     "subtitle": "Historic Landmark · Pyli, Thessaly, Greece",
     "imageAlt": "Arched Bridge of Portaikos River at Pyli - Main view in Pyli, Thessaly, Greece",
     "rating": "4.8",
-    "reviewCount": "7,379 reviews",
+    "reviewCount": "7,417 reviews",
     "type": "Historic Bridge",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6"
@@ -121,6 +126,18 @@
     "bio": "Born around 1490 in Megala Pyla (the settlement around today's Porta Panagia), Vissarion entered monastic life as a youth and later became Metropolitan of Larissa (1520). He rebuilt churches, founded schools, cared for the poor, and established the Monastery of the Holy Saviour, known as Dousiko Monastery, near his birthplace — endowed with foundation charters confirmed by the Ecumenical Patriarchate in 1536. The marble inscription of 1514 on the Pyli bridge records his name as its founder. He reposed on 15 September 1540 and is venerated as Saint Vissarion, wonderworker and patron saint of the Trikala region.",
     "craftTitle": "Engineering of a Single Arch",
     "craft": "The bridge is a single semicircular arch with a span of 28.76 m and a rise of 12.77 m — among the largest in Thessaly. Its fabric is dry-laid rubble masonry (αργολιθοδομή) of local limestone and sandstone; the arch ring is built from roughly shaped stones without any metal ties. The gently humpbacked deck, only 2.10 m wide, rises toward the crown to help distribute the load, while triangular cutwaters shield the pier bases from floods. For more than 500 years it has withstood river floods and earthquakes.",
+    "eraTitle": "The Ottoman era and the stone-bridge tradition of Thessaly",
+    "era": "In 1514 Thessaly was still under Ottoman rule. Trade, pilgrimage and seasonal transhumance between the plain and the mountains were intense, while mountain rivers ran high in winter and spring and fords were regularly cut off. Building high, single-arch stone bridges from local stone was therefore a shared engineering tradition across western Greece and the Thessalian mountains — the Zagori bridges of Epirus and the foothills of Koziakas in Thessaly both preserve groups of bridges from the same period. The Pyli bridge is among the largest and best preserved of that tradition.",
+    "tradeTitle": "Daily life on the trade route",
+    "trade": "Until 1936, mule trains carrying grain, wool, salt and timber passed this way in and out of the mountains; shepherds moved their flocks between the plain and the high pastures with the seasons; villagers carried produce down to the markets of Trikala. The deck is only about 2.1 m wide — just enough for two laden animals to pass — and that measurement is itself evidence of the traffic it carried. The shade at the bridge head was the natural resting place, where people waited for the water to drop, for daylight, or for company before moving on.",
+    "inscriptionTitle": "The marble inscription of 1514",
+    "inscription": "A marble slab set into the bridge records the year 1514 and the name of its sponsor, Vissarion. Few Greek stone bridges preserve both an exact date and a named founder, which is why the Pyli bridge is regarded as one of the best documented medieval bridges in Thessaly. The inscription is the bridge's most reliable birth certificate — and the reason we can separate documented history from later legend.",
+    "songsTitle": "Bridge legends and folk songs",
+    "songs": "Greek folklore is rich in songs and legends about stone bridges. The best known is the ballad of the Bridge of Arta (Γεφύρι της Άρτας): the structure collapses again and again until the builder's wife is immured in its foundations. This motif of a sacrifice that stabilises the bridge is widespread across the Balkans. Note, however, that no such tradition attaches to the Pyli bridge: its story centres on a saint who funded the crossing, not on a sacrifice. That difference is exactly why fact and legend should be told separately.",
+    "modernTitle": "After 1936: from thoroughfare to monument",
+    "modern": "In 1936 a modern road bridge opened on the national road and traffic stopped crossing the five-hundred-year-old stone arch. It changed from the only crossing into a cherished memory: no longer carrying loads, and precisely for that reason retaining its original masonry. After Thessaly joined the Greek kingdom in 1881, engineering works of the Ottoman period like this one were gradually reassessed and recorded, their value shifting from practical to historical and symbolic.",
+    "restorationTitle": "Restoration and conservation approach",
+    "restoration": "The campaigns of 1968, 1983 and 2005–2006 concentrated on loose masonry, deck drainage and bank scour, following a minimum-intervention approach with original materials and techniques: every stone that could be kept was kept, and new material remains distinguishable from the historic fabric. The bridge is still monitored and managed by the Ephorate of Antiquities of Trikala under the Greek Ministry of Culture.",
     "timelineTitle": "Timeline",
     "timeline": [
       {
@@ -129,9 +146,24 @@
         "desc": "The bridge is built with local limestone and sandstone under the sponsorship of Vissarion, as recorded on a marble inscription."
       },
       {
+        "year": "1520",
+        "title": "Metropolitan of Larissa",
+        "desc": "Vissarion is elected Metropolitan of Larissa; he goes on to rebuild churches, found schools and establish the Dousiko Monastery near his birthplace."
+      },
+      {
+        "year": "1540",
+        "title": "Repose and veneration",
+        "desc": "Vissarion reposes on 15 September and is later venerated as Saint Vissarion, patron saint of the Trikala region."
+      },
+      {
         "year": "1514-1936",
         "title": "The Only Crossing",
         "desc": "For more than four centuries, the bridge is the sole link between the Thessalian plain and Epirus, carrying trade, livestock and people."
+      },
+      {
+        "year": "1881",
+        "title": "Thessaly joins the Greek kingdom",
+        "desc": "Thessaly is incorporated into the Greek kingdom; the Ottoman-era bridge is reassessed and gradually shifts from infrastructure to heritage."
       },
       {
         "year": "1936",
@@ -177,7 +209,7 @@
     "city": "Town",
     "cityValue": "Pyli",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (7,379)",
+    "googleRatingValue": "4.8 (7,417)",
     "address": "Address",
     "addressValue": "22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας, Pili 420 32, Greece",
     "plusCode": "Plus Code",
@@ -207,18 +239,125 @@
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Trikala Center",
-    "fromCenterDesc": "Distance of about 22km from Trikala. Accessible by car via the Trikala-Arta national road.",
-    "fromStation": "From Pyli Town",
-    "fromStationDesc": "The bridge is located 2km from Pyli town center, reachable by local road.",
-    "fromAirport": "From Nearest Airport",
-    "fromAirportDesc": "Ioannina Airport is the nearest major airport, about 85km away.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Limited bus service to Pyli from Trikala. Check local schedules.",
-    "walking": "Walking",
-    "walkingDesc": "Short walk from the roadside parking to the bridge.",
-    "driving": "Driving",
-    "drivingDesc": "Follow the Trikala-Arta national road to the 22nd kilometer mark."
+    "subtitle": "Whether you drive, take a taxi, arrive by coach or fly in, here is the full route to the bridge by travel mode — with journey times, reference costs and things to watch for. All times and distances are typical values; check live road conditions and official timetables on the day.",
+    "labelDuration": "Journey time",
+    "labelDistance": "Distance",
+    "labelCost": "Indicative cost",
+    "facts": [
+      { "label": "From Trikala centre", "value": "approx. 22 km" },
+      { "label": "From Pyli town centre", "value": "approx. 2 km" },
+      { "label": "Nearest airport", "value": "Ioannina (IOA), approx. 85 km" },
+      { "label": "Road marker", "value": "22nd km, Trikala–Arta national road" }
+    ],
+    "modes": [
+      {
+        "id": "driving",
+        "title": "By car",
+        "duration": "approx. 25–35 min from Trikala",
+        "distance": "approx. 22 km",
+        "cost": "Fuel; free parking by the bridge",
+        "detail": "Driving is the most flexible way to reach the bridge. Follow the kilometre markers along the Trikala–Arta national road and pull into the parking area at the bridge head at the 22nd km. The road is in good condition throughout.",
+        "steps": [
+          "Search for “Pyli Bridge” in your maps app, or enter the Plus Code FJ62+65",
+          "Follow the national road and watch for the 22nd km marker",
+          "Park in the free roadside area — spaces are limited, so arrive before midday",
+          "Walk a few dozen metres from the parking area to the bridge head"
+        ]
+      },
+      {
+        "id": "taxi",
+        "title": "By taxi",
+        "duration": "approx. 25–35 min each way",
+        "distance": "approx. 22 km",
+        "cost": "approx. €30–€45 each way",
+        "detail": "Taxis can be found in Trikala and in Pyli town, and can drop you right at the bridge head. The bridge area is not a regular taxi rank, so returning vehicles are rare and the return leg needs planning.",
+        "steps": [
+          "Pick up a taxi at Trikala railway station, the bus station or a rank in the centre",
+          "Ask for “the old stone bridge at Pyli, 22nd km of the national road”",
+          "Agree the fare or confirm the meter before setting off, and ask for a receipt",
+          "Arrange a waiting time or pre-book the return pick-up so you are not stranded"
+        ]
+      },
+      {
+        "id": "airport",
+        "title": "From the airport",
+        "duration": "approx. 1.5 hours from Ioannina",
+        "distance": "Ioannina approx. 85 km; Thessaloniki approx. 230 km; Athens approx. 330 km",
+        "cost": "Car hire or airport transfer; varies by season",
+        "detail": "The nearest airport is Ioannina National Airport (IOA). Thessaloniki (SKG) and Athens (ATH) offer far more flights but a much longer drive, so an overnight stop en route is usually worthwhile.",
+        "steps": [
+          "From Ioannina: hire a car or change onto transport towards Trikala, roughly 1.5 hours",
+          "From Thessaloniki: reach Trikala first (coach or rail), then continue by road — about 3–3.5 hours in total",
+          "From Athens: consider an overnight stop in Trikala or Larissa before continuing to Pyli",
+          "Check one-way drop-off and insurance terms before you confirm car hire"
+        ]
+      },
+      {
+        "id": "coach",
+        "title": "Long-distance coach (KTEL)",
+        "duration": "Athens approx. 4.5–5 h; Thessaloniki approx. 2.5–3 h",
+        "distance": "to Trikala",
+        "cost": "Standard fare band — check station notices",
+        "detail": "Intercity coaches in Greece are operated by KTEL. Both Athens and Thessaloniki run direct services to Trikala; from there, transfer to regional transport for Pyli and the bridge.",
+        "steps": [
+          "Take a KTEL coach from Athens or Thessaloniki to Trikala",
+          "At Trikala bus station, change to a regional service towards Pyli, or take a taxi",
+          "Schedules change around public holidays and in summer — check and book ahead",
+          "The last return departures are early; allow a buffer"
+        ]
+      },
+      {
+        "id": "bus",
+        "title": "Regional bus & local connection",
+        "duration": "Trikala–Pyli approx. 30–40 minutes",
+        "distance": "approx. 22 km",
+        "cost": "Low regional fare — check station notices",
+        "detail": "Regional buses run between Trikala and Pyli, but services are limited and usually reduced at weekends. From Pyli town centre it is about 2 km to the bridge, walkable or a short taxi ride.",
+        "steps": [
+          "Check the day's departures to Pyli (Πύλη) at Trikala bus station",
+          "From Pyli town centre, walk roughly 25–30 minutes along local roads to the bridge",
+          "In poor weather or with limited mobility, take a taxi for the last 2 km",
+          "Confirm the time of the last return service before you set off"
+        ]
+      },
+      {
+        "id": "rail",
+        "title": "By train",
+        "duration": "approx. 4–6 hours including changes",
+        "distance": "via Palaiofarsalos",
+        "cost": "Rail fare — check the official timetable",
+        "detail": "Trikala sits on the Palaiofarsalos–Kalabaka branch line. From Athens or Thessaloniki you normally change at Palaiofarsalos, then continue by road to Pyli. Services are infrequent and can change at short notice.",
+        "steps": [
+          "Look up trains to Trikala or Kalabaka and the transfer options",
+          "On arrival, take a taxi or regional bus on to Pyli and the bridge",
+          "Re-check the timetable on the day of travel",
+          "With heavy luggage, take a taxi for the final leg"
+        ]
+      },
+      {
+        "id": "walk",
+        "title": "On foot or by bike",
+        "duration": "approx. 25–30 min walk from Pyli",
+        "distance": "approx. 2 km",
+        "cost": "None",
+        "detail": "From Pyli town centre it is about 2 km of local road to the bridge, mixing asphalt with country lanes. Cycling works too, but traffic on the national road is fast, so take care.",
+        "steps": [
+          "Leave Pyli town centre on the road leading towards the national road",
+          "Watch for vehicles; some sections of country lane have no footway",
+          "The 22nd km marker brings you to the bridge head parking area",
+          "In summer, walk early or late to avoid the midday sun"
+        ]
+      }
+    ],
+    "tipsTitle": "General transport tips",
+    "tips": [
+      "The most reliable waypoint for the last leg is “22nd km of the Trikala–Arta national road”; the Plus Code FJ62+65 also works in most map apps.",
+      "Free parking by the bridge is limited — arrive before midday at weekends and on public holidays.",
+      "Public transport is limited and often reduced at weekends: check the day's timetable and allow a buffer.",
+      "Returning vehicles are rare, so agree a waiting time with your driver or pre-book the return trip.",
+      "Mountain roads can ice over or close in winter — check conditions and tyres before driving.",
+      "Public chargers near the bridge are scarce; charge in Trikala if you drive an electric car."
+    ]
   },
   "facilities": {
     "title": "Visitor Facilities & Nearby Services",
@@ -264,19 +403,392 @@
         "id": "pets",
         "title": "Pets",
         "desc": "Pets are allowed on the riverside and the bridge, kept on a leash. There is no dedicated water point or waste station for pets, so please carry water and take any waste with you."
+      },
+      {
+        "id": "water",
+        "title": "Drinking water & supplies",
+        "desc": "There is no drinking-water point at the bridge. Buy water in Pyli or Trikala beforehand and allow at least a litre per person in summer — the shade is good but there are no supplies on site."
+      },
+      {
+        "id": "shade",
+        "title": "Shade & rest",
+        "desc": "The centuries-old plane trees form a natural shaded corridor along the bank, with a few benches beneath them. Even so, midday in summer stays hot — plan your stop for early morning or late afternoon."
+      },
+      {
+        "id": "medical",
+        "title": "Medical & emergency",
+        "desc": "There is no medical post at the bridge. Pyli has primary care facilities and larger hospitals are in Trikala. In an emergency, call the pan-European emergency number 112."
+      },
+      {
+        "id": "connectivity",
+        "title": "Network & signal",
+        "desc": "Mobile coverage is usually good along the national road, but the gorge floor where the bridge sits can weaken the signal. Save your map and return journey details offline in advance."
+      },
+      {
+        "id": "banking",
+        "title": "Cash & payments",
+        "desc": "Bank branches and ATMs are available in Pyli town. Smaller shops and stalls near the bridge may accept cash only, so carry some small change with you."
+      }
+    ],
+    "overview": {
+      "title": "Visitor services & nearby facilities at a glance",
+      "subtitle": "A type-based summary of where each service is usually found and how far it is from the bridge. No specific businesses are named. Opening hours and availability change with the season, so confirm locally before you travel.",
+      "columns": {
+        "service": "Service type",
+        "where": "Where it is found",
+        "distance": "Distance from bridge",
+        "note": "Notes"
+      },
+      "rows": [
+        {
+          "service": "Public toilets",
+          "where": "Pyli town centre; fuel stations along the national road",
+          "distance": "approx. 2 km",
+          "note": "There is no toilet at the bridge itself — sort this out before you arrive"
+        },
+        {
+          "service": "Parking",
+          "where": "Free roadside parking area on the national road",
+          "distance": "0–100 m",
+          "note": "Limited spaces; arrive before midday at weekends and holidays"
+        },
+        {
+          "service": "Food & drink",
+          "where": "Traditional tavernas, cafés and bakeries in Pyli; small cafés by the river near the bridge",
+          "distance": "0.3–2 km",
+          "note": "Traditional Greek food and light meals; opening hours vary a lot by season"
+        },
+        {
+          "service": "Accommodation",
+          "where": "Pyli town and mountain villages such as Elati and Pertouli",
+          "distance": "20–40 min drive",
+          "note": "Hotels, guesthouses and traditional mountain lodges are the common types"
+        },
+        {
+          "service": "Groceries & convenience",
+          "where": "Supermarkets, mini markets and local produce shops in Pyli",
+          "distance": "approx. 2 km",
+          "note": "Good for water and snacks; shorter hours on Sundays and holidays"
+        },
+        {
+          "service": "Fuel & charging",
+          "where": "Fuel stations in Pyli and along the Trikala–Arta national road",
+          "distance": "2 km and beyond",
+          "note": "Public chargers near the bridge are scarce; charge in Trikala first"
+        },
+        {
+          "service": "Medical & emergency",
+          "where": "Primary care in Pyli; hospitals in Trikala",
+          "distance": "2–22 km",
+          "note": "In an emergency call the pan-European number 112"
+        },
+        {
+          "service": "Cash & payments",
+          "where": "Bank branches and ATMs in Pyli town",
+          "distance": "approx. 2 km",
+          "note": "Smaller shops may be cash only — carry some change"
+        }
+      ]
+    }
+  },
+  "weather": {
+    "title": "Current Weather & Multi-Day Forecast",
+    "subtitle": "Check this before you set off: current conditions, the feels-like temperature and the 7-day outlook for temperature, rain probability and UV index — so you know whether to pack an umbrella or sunscreen.",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "precipProbability": "Rain chance",
+    "wind": "Wind",
+    "gusts": "Gusts",
+    "windUnit": "km/h",
+    "uvIndex": "UV index",
+    "rainfall": "Rainfall today",
+    "windLevels": [
+      "Calm",
+      "Light air",
+      "Light breeze",
+      "Gentle breeze",
+      "Moderate breeze",
+      "Fresh breeze",
+      "Strong breeze",
+      "Near gale",
+      "Gale",
+      "Strong gale",
+      "Storm",
+      "Violent storm",
+      "Hurricane"
+    ],
+    "uvLevels": ["Low", "Moderate", "High", "Very high", "Extreme"],
+    "humidityLevels": ["Dry air", "Comfortable", "Humid", "Muggy"],
+    "windValue": "Force {level} · {name}",
+    "windShort": "F{level}",
+    "umbrellaYes": "Pack an umbrella today",
+    "umbrellaNo": "No rain gear needed today",
+    "umbrellaHint": "Based on today's rain probability and rainfall.",
+    "adviceTitle": "Practical tips for today",
+    "terrainNote": "This site sits in a narrow river gorge: gusts are funnelled at the gorge mouth, the river can rise noticeably within hours of heavy rain, and the stone surfaces turn slippery when wet — the suggestions above are weighted for that terrain.",
+    "riskTitle": "Risk alerts",
+    "noRisk": "Based on the current forecast there is no particular risk to plan around — a normal visit is fine.",
+    "groups": {
+      "risk": "Risk alerts",
+      "dress": "What to wear",
+      "plan": "How to plan your visit",
+      "gear": "What to pack"
+    },
+    "risk": {
+      "thunder": "Thunderstorms: do not climb, do not shelter under trees and stay away from the river. Move into a building or a car if lightning is close.",
+      "windStrong": "Very strong wind: keep clear of signs, temporary structures and the gorge walls. The deck is fully exposed — mind hats and loose items.",
+      "heavyRain": "Heavy rain: the river can rise quickly. Do not go down to the riverbed or stand at the bank edge, and do not linger below the cliffs.",
+      "heat": "High temperatures: shorten your time outdoors, drink water and keep out of the midday sun, especially with children or older visitors.",
+      "frost": "Freezing conditions: the deck and riverside stones can be frosted and slippery early and late in the day — wear grippy shoes and slow down.",
+      "fog": "Poor visibility: mountain roads and distant views are affected. Drive slowly, keep your distance and check for local traffic notices."
+    },
+    "dress": {
+      "waterproof": "Wind and rain expected — a waterproof jacket with breathable layers underneath.",
+      "rainLight": "Rain is possible — pack a light rain shell and shoes with good grip.",
+      "snow": "Snow or lying snow — warm waterproof footwear and a thick coat; watch for ice underfoot.",
+      "hot": "Hot day — light, breathable clothing and sun protection.",
+      "cold": "Cold day — a warm coat and a scarf, and keep hands and feet warm.",
+      "layers": "Large day-to-night swing — dress in layers and carry a jacket for early and late hours.",
+      "windproof": "Windy — a windproof outer layer; avoid loose skirts and hats that blow off easily.",
+      "comfortable": "Comfortable temperatures — everyday clothing is fine, with a light jacket as backup."
+    },
+    "plan": {
+      "clear": "Clear weather: ideal for walking and photography. Early morning and late afternoon give the best light; seek shade at midday.",
+      "overcast": "Plenty of cloud: soft, even light — good for a longer stay and for photographing masonry detail.",
+      "rain": "Rain will affect the outdoor experience: keep the crossing short and spend more time in Pyli town instead.",
+      "thunder": "Do not tour outdoors during thunderstorms: avoid the river, exposed heights and trees, and wait for conditions to settle.",
+      "heat": "Avoid the middle of the day — visit early or late, drink water and rest in the shade.",
+      "wind": "Strong wind: it feels colder and is harder to stand steady on the deck and high viewpoints — keep the visit short.",
+      "fog": "Visibility is limited, so distant views of the bridge and gorge will suffer — focus on close-up masonry detail instead.",
+      "snow": "With snow or lying snow the surfaces are slippery: stay at the viewpoints and bridge head and do not go down to the bank.",
+      "gorgeWater": "While the river is rising, do not go down to the riverbed — view from the roadside viewpoint and watch the water level.",
+      "normal": "Settled conditions — follow the standard route with normal sun protection and water."
+    },
+    "gear": {
+      "umbrella": "Folding umbrella",
+      "raincoat": "Rain jacket (better than a long umbrella in wind)",
+      "sunscreen": "Sunscreen",
+      "sunglasses": "Sunglasses",
+      "hat": "Sun hat",
+      "water": "Plenty of drinking water",
+      "layer": "A spare jacket",
+      "shoes": "Shoes with good grip",
+      "offlineMap": "Offline map and return timetable",
+      "basics": "Everyday essentials (water, sun protection)"
+    },
+    "forecastTitle": "7-Day Forecast",
+    "forecastLegend": "Each card shows the date, conditions, high/low temperature and rain probability.",
+    "codes": {
+      "clear": "Clear",
+      "mainlyClear": "Mainly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "thunderstorm": "Thunderstorm",
+      "unknown": "n/a"
+    },
+    "unavailable": "Weather information is temporarily unavailable. Please try again later — the seasonal guide below will help you plan in the meantime.",
+    "footnote": "Weather information refreshes automatically every 30 minutes and is provided as guidance only.",
+    "observedAt": "Observed at"
+  },
+  "seasons": {
+    "title": "Seasonal Visiting Strategy",
+    "subtitle": "Temperature, rainfall, river levels and wildlife activity all shift through the year. This overview combines the local long-term climate pattern with seasonal observation to help you pick the right time and the right gear; individual years vary.",
+    "columns": {
+      "season": "Season",
+      "temp": "Temperature",
+      "rain": "Rainfall",
+      "water": "River & water",
+      "wildlife": "Nature & wildlife",
+      "crowd": "Crowds",
+      "advice": "Gear & tips"
+    },
+    "rows": [
+      {
+        "season": "Spring (Mar–May)",
+        "temp": "approx. 8–22°C",
+        "rain": "Frequent showers, higher rainfall",
+        "water": "Snowmelt keeps the river full and fast, water slightly turbid",
+        "wildlife": "Fresh plane-tree foliage and wildflowers; birds breeding and singing at dawn",
+        "crowd": "Moderate, higher at weekends and religious holidays",
+        "advice": "Waterproof shoes plus a light jacket; wet stone is slippery, and mist over the water photographs beautifully"
+      },
+      {
+        "season": "Summer (Jun–Aug)",
+        "temp": "approx. 20–35°C",
+        "rain": "Little rain, occasional afternoon thunderstorms",
+        "water": "Low, crystal-clear water; the riverbed and pier bases are clearly visible",
+        "wildlife": "Dense shade, dragonflies and cicadas; birds most active early in the morning",
+        "crowd": "Highest, especially at weekends and midday",
+        "advice": "Come early or late; bring a hat, sunscreen and water; avoid prolonged exposure around midday"
+      },
+      {
+        "season": "Autumn (Sep–Nov)",
+        "temp": "approx. 10–25°C",
+        "rain": "Rainfall gradually increasing",
+        "water": "Stable, lower flow and clear water — ideal for reflections",
+        "wildlife": "Plane trees and broadleaf woods turn colour; migrating birds pass through",
+        "crowd": "Moderate to low",
+        "advice": "The most comfortable walking season; pack a windproof layer. Soft light suits photography"
+      },
+      {
+        "season": "Winter (Dec–Feb)",
+        "temp": "approx. 0–12°C",
+        "rain": "Rain and snow; surrounding mountains are often snow-covered",
+        "water": "Winter rain and snowmelt can raise levels quickly and increase the current",
+        "wildlife": "Bare branches reveal the full outline of the arch; birds feed along the river",
+        "crowd": "Lowest of the year",
+        "advice": "Dress warmly and watch for frost on the deck and rising water; check the forecast before travelling"
+      }
+    ],
+    "note": "Note: the table describes general seasonal patterns. For actual conditions, rely on the live weather block above and official forecasts. Do not go down to the riverbank during storms, floods or heat warnings."
+  },
+  "audiences": {
+    "title": "Routes by Traveller Type",
+    "subtitle": "The same bridge, three different rhythms. Pick the route that matches who you are travelling with — family, photography and nature interests, or a low-effort, step-free visit.",
+    "highlightsLabel": "Route highlights",
+    "notesLabel": "Good to know",
+    "items": [
+      {
+        "id": "family",
+        "title": "Families with children",
+        "duration": "approx. 1.5–2 hours",
+        "pace": "Relaxed pace",
+        "summary": "Short walks and safe viewpoints turn the 500-year-old bridge into an open-air classroom: how an arch carries load, counting the stones, watching water and shadows.",
+        "highlights": [
+          "Start at the roadside viewpoint: explain how an arch stands up before walking onto the deck",
+          "On the bridge head, play “spot the difference” between arch stones and deck stones",
+          "Observe the current, pebbles and tree reflections from the gentle bank — keep a safe distance from the water",
+          "Finish with a local pastry in Pyli town centre"
+        ],
+        "notes": [
+          "The deck is only about 2.1 m wide with no railings — hold children's hands at all times",
+          "Pushchairs struggle on the cobbled section; a child carrier works better",
+          "Avoid midday in summer and watch for frost on the deck in winter"
+        ]
+      },
+      {
+        "id": "photo",
+        "title": "Photography & nature",
+        "duration": "approx. 3–4 hours",
+        "pace": "Flexible pace",
+        "summary": "Plan around the light: reflections downstream at dawn, shaded stone and plant details at midday, then the full arch from higher ground in the evening.",
+        "highlights": [
+          "Dawn: low angle on the downstream bank for the arch and its reflection",
+          "Morning: close-ups of the deck and voussoirs — side light reveals the stone texture",
+          "Midday: macro subjects and riverside ecology in the shade of the plane trees",
+          "Evening: the high viewpoint across the road for the full span in warm light"
+        ],
+        "notes": [
+          "Keep tripods clear of the walking route; the narrow deck should not be blocked",
+          "After rain the stones are slick — assess water level and current before approaching the bank",
+          "If you fly a drone, follow local regulations and avoid flying over visitors or the road"
+        ]
+      },
+      {
+        "id": "accessible",
+        "title": "Low-effort & step-free",
+        "duration": "approx. 45–60 minutes",
+        "pace": "Gentle pace",
+        "summary": "No bridge crossing and no riverbank: stay on the roadside viewing area and the level ground at the bridge head. The full single arch and the gorge are still clearly visible — suitable for older visitors, anyone with limited mobility and wheelchair users.",
+        "highlights": [
+          "Level roadside viewpoint with a straight-on view of the whole bridge — the least effort, best reward",
+          "Level ground at the bridge head for a closer look at the arch ring and abutments",
+          "A shaded rest spot to listen to the water and take in the gorge",
+          "Return to Pyli town centre for refreshments; almost no ascent anywhere"
+        ],
+        "notes": [
+          "The cobbled path to the bridge head is uneven with no ramps or handrails — difficult for wheelchairs and walking frames",
+          "Come with a companion and choose a viewing point where the car can stop directly",
+          "Seek shade and water in summer, wrap up warm in winter"
+        ]
       }
     ]
   },
+  "responsibility": {
+    "title": "Science & Visitor Responsibility",
+    "subtitle": "This bridge has stood for five centuries because structure, rock and water found a balance. Whether it stands for five more depends on how every visitor behaves.",
+    "scienceTitle": "The science behind the scene",
+    "scienceIntro": "Four short explanations will help you read what is in front of you: why the bridge stands here, where the water comes from, what lives in the valley — and how a stone arch with no steel has carried five hundred years of loads.",
+    "science": [
+      {
+        "title": "Gorge and bedrock",
+        "text": "The site sits where the Portaikos has cut a narrow gorge through the mountain, exposing limestone and sandstone on both banks. Long-term downcutting created the steep walls — and gave a single wide arch the natural abutments it needed. That is exactly why the builders chose this spot."
+      },
+      {
+        "title": "River hydrology",
+        "text": "The Portaikos rises in the Koziakas massif of the Pindos range. Its flow is strongly seasonal: winter and spring rain plus snowmelt make it full and fast, while summer and autumn flows drop markedly. Understanding this explains why the bridge has cutwaters at its base."
+      },
+      {
+        "title": "Valley ecology",
+        "text": "Centuries-old plane trees form a shaded corridor along the banks, providing habitat for birds, amphibians and insects. The clear, oxygen-rich water is an important habitat for local fish. Spring is the breeding season — watch from a distance and avoid playback calls."
+      },
+      {
+        "title": "How the structure works",
+        "text": "A semicircular arch carries the deck load along the arch ring into the rock on both banks. Dry-laid stones hold together through compression and friction alone, with no metal ties anywhere. Triangular cutwaters blunt the force of flood water, while the gently humped deck helps spread the load."
+      }
+    ],
+    "dutyTitle": "Visitor responsibility",
+    "dutyIntro": "This is a protected monument and a river habitat without fences or wardens — care depends on visitors themselves. Please observe the following with us:",
+    "duties": [
+      "No carving, painting or marking of any kind: damage to a 500-year-old stone surface cannot be undone",
+      "Take nothing away — no pebbles, stones or plants — and never move or restack the bridge's stones",
+      "Carry your litter out; bins are limited and there are none on the deck or riverbank",
+      "No open fires or barbecues: dry plane leaves make fire risk high",
+      "Do not chase, feed or capture wildlife; keep away from nesting areas during the breeding season",
+      "Keep pets on a lead and clean up after them; there are no pet water points or waste bins on site",
+      "Do not climb the arch ring, abutments or railings; when photographing, keep the walkway clear and do not occupy the narrow deck for long"
+    ],
+    "safetyTitle": "Safety notes",
+    "safetyIntro": "This is an open-air monument with no gatehouse or staff on site, so please judge the conditions yourself:",
+    "safety": [
+      "After heavy rain the water level can rise noticeably within hours — do not go down to the riverbed or stand at the bank edge",
+      "Bank stones and the deck are slippery after rain, at dawn and in winter — wear shoes with good grip",
+      "Rockfall is possible from the steep gorge walls — do not linger directly beneath them",
+      "Summer midday is hot and shade is limited — drink water and avoid the 12:00–16:00 window",
+      "Lighting is limited after dark; plan to finish your visit around sunset",
+      "Keep children, older visitors and companions within sight and contact at all times"
+    ],
+    "note": "This is an independent non-profit educational project. The content above is a general introduction and is not professional engineering, meteorological or rescue advice; if conditions on site differ, follow local official notices and signage."
+  },
   "route": {
-    "title": "Recommended Visit",
-    "overview": "Explore the historic bridge and surrounding area.",
-    "steps": [
-      "Arrive at the bridge via the Trikala-Arta road",
-      "Walk across the historic arched bridge",
-      "Enjoy the views of Portaikos River",
-      "Take photos from multiple angles",
-      "Visit the nearby Porta Panagia monastery (optional)",
-      "Explore the town of Pyli"
+    "title": "Recommended Visiting Routes",
+    "overview": "Two ready-made routes — a half day and a full day — both starting from the parking area on the national road. Mix and match them according to your arrival time, stamina and who you are travelling with.",
+    "halfDay": {
+      "label": "Half-day route",
+      "duration": "approx. 2–3 hours",
+      "steps": [
+        "Drive the Trikala–Arta national road to the 22nd km and park in the roadside parking area",
+        "Start at the roadside viewpoint for the full picture before approaching",
+        "Walk across the historic arch, noting how the voussoirs differ from the deck stones",
+        "Descend to the gentle bank and shoot the arch from downstream, if the water level allows",
+        "Rest in the shade of the plane trees, listening to the water and watching the riverside habitat",
+        "Return to Pyli town centre for food or supplies"
+      ]
+    },
+    "fullDay": {
+      "label": "Full-day route",
+      "duration": "approx. 6–8 hours",
+      "steps": [
+        "Set off early to photograph the bridge and its reflection in morning light",
+        "Complete a full circuit of the deck and the gentle bank, noting the masonry detail",
+        "Head about 2 km to the 13th-century Byzantine church of Porta Panagia",
+        "Lunch in Pyli town centre and walk the traditional streets",
+        "Continue to the mountain villages of Elati or Pertouli for the highland landscape",
+        "Return to the bridge in the evening for the arch from the higher viewpoint at sunset",
+        "Stay overnight in Pyli or a mountain village, or drive back to Trikala the same day"
+      ]
+    },
+    "tipsTitle": "Notes for both routes",
+    "tips": [
+      "The bridge is free and open at all hours; early morning and evening have the best light and fewest people",
+      "Both routes work best with a car; public transport is limited, so check timetables in advance",
+      "The deck is narrow with no railings — cross in small groups if you are a larger party",
+      "In summer, schedule the strenuous parts early or late and use midday for food and rest",
+      "In wet weather, switch to the “viewpoint plus town” combination and skip the riverbank"
     ]
   },
   "photoSpots": {
@@ -404,6 +916,38 @@
       {
         "q": "Can I charge an electric vehicle near the bridge?",
         "a": "Public EV chargers are scarce in the immediate area. Fuel stations are available in Pyli town and along the Trikala-Arta road. If you drive an electric vehicle, charging in Trikala before your visit is recommended."
+      },
+      {
+        "q": "Which season and time of day are best for visiting the Pyli bridge?",
+        "a": "Spring (March–May) brings a full river and wildflowers, while autumn (September–November) offers comfortable temperatures and soft light; both are popular. Within the day, early morning and late afternoon give the best light and the fewest people — in summer avoid the midday heat. Check the live weather and 7-day forecast on this page before you go."
+      },
+      {
+        "q": "How do I get to the bridge from Athens or Thessaloniki?",
+        "a": "Both cities have KTEL coaches to Trikala (around 4.5–5 hours from Athens, 2.5–3 hours from Thessaloniki); from there take a regional service to Pyli or a taxi. Trains require a change at Palaiofarsalos. Driving or hiring a car is the most flexible option, and the nearest airport is Ioannina (IOA), about 85 km away."
+      },
+      {
+        "q": "Is it still worth visiting in rain or when the river is high?",
+        "a": "In light rain you can still admire the bridge from the roadside viewpoint, but do not go down to the bank or the riverbed: the Portaikos can rise noticeably within hours during storms and snowmelt, and the stones become slippery. During storm, flood or heat warnings, postpone your visit or spend the time in Pyli town instead."
+      },
+      {
+        "q": "Can I take a pushchair or ride a bicycle across the bridge?",
+        "a": "The deck is about 2.1 m wide with an uneven stone surface, and the short path from the road is cobbled with no ramps or handrails, so pushchairs and wheelchairs struggle — a child carrier or the roadside viewpoint works better. Cycling is fine on the national road and local lanes as far as the parking area, but the deck is narrow, so walk your bike across."
+      },
+      {
+        "q": "Is the bridge open 24 hours, and is there an entrance fee?",
+        "a": "Yes. It is an open-air monument with no gate or ticket office, and admission is free, so you can visit at any hour. There is no lighting at night, so plan to finish before dark."
+      },
+      {
+        "q": "How do I get to the bridge from Trikala?",
+        "a": "It is about 22 km from Trikala city centre, roughly 25–35 minutes by car along the Trikala–Arta national road: follow the kilometre markers and pull in at the 22nd km. Parking by the bridge head is free but limited, so arrive before midday. A taxi costs about €30–45 each way; the bridge is not a regular taxi rank, so pre-book your return."
+      },
+      {
+        "q": "What else is worth seeing near the bridge?",
+        "a": "The 13th-century Byzantine church of Porta Panagia is about 2 km away, and Pyli town centre is a short drive for a walk and lunch. Further uphill, the mountain villages of Elati and Pertouli are 20–40 minutes away — an easy half-day loop."
+      },
+      {
+        "q": "How much time should I allow for a visit?",
+        "a": "Around 30–60 minutes is enough for the bridge itself and photographs. Allow half a day if you add Porta Panagia, lunch in Pyli and a drive up to the mountain villages."
       }
     ]
   },
@@ -446,16 +990,21 @@
         "name": "Hellenic Cadastre",
         "url": "https://www.arxaiologikoktimatologio.gov.gr/",
         "desc": "Public registry of archaeological sites and protected properties."
+      },
+      {
+        "name": "Hellenic National Meteorological Service (EMY)",
+        "url": "https://www.emy.gr/",
+        "desc": "The official meteorological service of Greece; national forecasts and weather warnings."
       }
     ],
-    "dateNote": "Data and content last reviewed: 31 August 2026."
+    "dateNote": "Data and content last reviewed: 20 September 2026."
   },
   "footer": {
     "brandName": "Arched Bridge of Portaikos River",
     "officialIntro": "For official updates and regional tourism information, visit the official portals below:",
     "brandSubtitle": "Historic Landmark · Thessaly, Greece",
     "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
-    "updated": "Content last updated: 31 August 2026.",
+    "updated": "Content last updated: 20 September 2026.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",

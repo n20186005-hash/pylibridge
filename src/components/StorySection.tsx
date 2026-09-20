@@ -78,6 +78,84 @@ export default function StorySection() {
           </div>
         </div>
 
+        {/* Historical context: the Ottoman era and the Thessalian bridge tradition */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
+          <div
+            className="rounded-2xl p-7"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('eraTitle')}
+            </h3>
+            <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {t('era')}
+            </p>
+          </div>
+          <div
+            className="rounded-2xl p-7"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('tradeTitle')}
+            </h3>
+            <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {t('trade')}
+            </p>
+          </div>
+        </div>
+
+        {/* Inscription & folk tradition */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
+          <div
+            className="rounded-2xl p-7"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+          >
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('inscriptionTitle')}
+            </h3>
+            <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {t('inscription')}
+            </p>
+          </div>
+          <div
+            className="rounded-2xl p-7"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('songsTitle')}
+            </h3>
+            <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {t('songs')}
+            </p>
+          </div>
+        </div>
+
+        {/* From working crossing to protected monument */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
+          <div
+            className="rounded-2xl p-7"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('modernTitle')}
+            </h3>
+            <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {t('modern')}
+            </p>
+          </div>
+          <div
+            className="rounded-2xl p-7"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('restorationTitle')}
+            </h3>
+            <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {t('restoration')}
+            </p>
+          </div>
+        </div>
+
         {/* Timeline */}
         <h3 className="font-display text-2xl font-semibold mb-8" style={{ color: 'var(--text-primary)' }}>
           {t('timelineTitle')}

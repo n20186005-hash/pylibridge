@@ -1,42 +1,62 @@
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Dependencies
+node_modules/
+.pnpm-store/
+.npmrc
+.yarn/
+.yarnrc.yml
 
-# build outputs
-/.next/
-/out/
-/build
+# Next.js build output
+.next/
+out/
+build/
+dist/
+next-env.d.ts.bak
 
-# testing
-/coverage
+# Cloudflare Workers / OpenNext (manual deploy via wrangler)
+.wrangler/
+.open-next/
+.mf/
+*.wrangler
+.worker-next/
+dist-worker/
 
-# misc
-.DS_Store
+# Caches & incremental data
+.turbo/
+.cache/
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
 *.pem
+*.key
+.dev.vars
 
-# debug
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+*.log
 
-# local env files
-.env*.local
-.env
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# IDE
+# Editors & OS
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
-
-# OS
+.DS_Store
 Thumbs.db
+desktop.ini
+
+# Coverage & test output
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+
+# Misc
+*.local
+.vercel
+.netlify

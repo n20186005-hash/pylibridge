@@ -1,5 +1,3 @@
-'use client';
-
 import { useTranslations, useMessages } from 'next-intl';
 import type { ReactNode } from 'react';
 
@@ -64,16 +62,56 @@ const facilityIcons: Record<string, ReactNode> = {
       <path d="M12 13c-3 0-5.5 2-6 5 0 .6.4 1 1 1h10c.6 0 1-.4 1-1-.5-3-3-5-6-5z" />
     </svg>
   ),
+  water: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 3s6 6.4 6 10.4A6 6 0 0 1 6 13.4C6 9.4 12 3 12 3z" />
+      <path d="M9.5 14.5a2.7 2.7 0 0 0 2.5 3" />
+    </svg>
+  ),
+  shade: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 3v8" />
+      <path d="M12 11c-4 0-7 2.5-7 5.5S8.5 21 12 21s7-1.5 7-4.5S16 11 12 11z" />
+    </svg>
+  ),
+  medical: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="3" y="6" width="18" height="14" rx="2" />
+      <path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2" />
+      <path d="M12 11v6M9 14h6" />
+    </svg>
+  ),
+  connectivity: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M5 12.5a10 10 0 0 1 14 0" />
+      <path d="M8.5 16a5.5 5.5 0 0 1 7 0" />
+      <path d="M2.5 9a14.5 14.5 0 0 1 19 0" />
+      <circle cx="12" cy="19.5" r="1" />
+    </svg>
+  ),
+  banking: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="3" y="9" width="18" height="11" rx="1.5" />
+      <path d="M3 13h18" />
+      <path d="M8 17h3" />
+      <path d="M12 4l8 4H4l8-4z" />
+    </svg>
+  ),
 };
+
+type FacilityItem = { id: string; title: string; desc: string };
+type ServiceRow = { service: string; where: string; distance: string; note: string };
 
 export default function FacilitiesSection() {
   const t = useTranslations('facilities');
   const messages = useMessages() as any;
-  const items = (messages?.facilities?.items || []) as Array<{ id: string; title: string; desc: string }>;
+  const items = (messages?.facilities?.items || []) as FacilityItem[];
+  const overview = messages?.facilities?.overview || null;
+  const rows = (overview?.rows || []) as ServiceRow[];
 
   return (
     <section id="facilities" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -81,7 +119,7 @@ export default function FacilitiesSection() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-4" style={{ background: 'var(--accent)' }} />
-        <p className="text-sm mb-10" style={{ color: 'var(--text-muted)' }}>
+        <p className="text-sm mb-10 max-w-3xl leading-relaxed" style={{ color: 'var(--text-muted)' }}>
           {t('subtitle')}
         </p>
 
@@ -107,6 +145,72 @@ export default function FacilitiesSection() {
             </div>
           ))}
         </div>
+
+        {/* Neutral, type-based service overview */}
+        {rows.length > 0 && (
+          <div className="mt-14">
+            <h3 className="font-display text-2xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+              {overview.title}
+            </h3>
+            <p className="text-sm mb-6 max-w-3xl leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+              {overview.subtitle}
+            </p>
+
+            <div
+              className="hidden md:block rounded-2xl overflow-hidden"
+              style={{ border: '1px solid var(--border-color)', background: 'var(--bg-tertiary)' }}
+            >
+              <table className="w-full text-sm border-collapse">
+                <thead>
+                  <tr style={{ background: 'var(--bg-secondary)', color: 'var(--text-primary)' }}>
+                    <th className="text-left font-semibold px-4 py-3">{overview.columns?.service}</th>
+                    <th className="text-left font-semibold px-4 py-3">{overview.columns?.where}</th>
+                    <th className="text-left font-semibold px-4 py-3">{overview.columns?.distance}</th>
+                    <th className="text-left font-semibold px-4 py-3">{overview.columns?.note}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {rows.map((row, i) => (
+                    <tr
+                      key={i}
+                      style={{
+                        borderTop: i === 0 ? 'none' : '1px solid var(--border-color)',
+                        color: 'var(--text-secondary)',
+                      }}
+                    >
+                      <td className="px-4 py-4 align-top font-semibold" style={{ color: 'var(--text-primary)' }}>
+                        {row.service}
+                      </td>
+                      <td className="px-4 py-4 align-top">{row.where}</td>
+                      <td className="px-4 py-4 align-top whitespace-nowrap">{row.distance}</td>
+                      <td className="px-4 py-4 align-top">{row.note}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            <div className="grid grid-cols-1 md:hidden gap-4">
+              {rows.map((row, i) => (
+                <div
+                  key={i}
+                  className="rounded-2xl p-5"
+                  style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+                >
+                  <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>
+                    {row.service}
+                  </h4>
+                  <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>
+                    {row.where} · {row.distance}
+                  </p>
+                  <p className="text-sm mt-1 leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+                    {row.note}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         <div
           className="mt-10 rounded-xl p-5 flex items-start gap-4"

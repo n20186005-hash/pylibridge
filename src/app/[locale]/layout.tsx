@@ -15,6 +15,9 @@ const STREET_ADDRESS = '22ο χλμ. της εθνικής οδού Τρικάλ
 const LAT = 39.4605452;
 const LNG = 21.6004;
 const MAPS_URL = 'https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6';
+const PHONE = '+30 2431 076647';
+const GOOGLE_RATING = '4.8';
+const GOOGLE_REVIEW_COUNT = '7417';
 const GOVT_TOURISM_URL = 'https://www.visitgreece.gr/';
 const HERO_IMAGE = `${BASE_URL}/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg`;
 const PUBLISHER_NAME = 'Pyli Bridge Cultural Heritage Project';
@@ -57,7 +60,9 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'el': elUrl,
-        'x-default': elUrl,
+        // English is the widest-reaching edition and carries the most search
+        // demand, so it serves visitors whose language has no matching edition.
+        'x-default': enUrl,
       },
     },
     openGraph: {
@@ -108,7 +113,7 @@ export default async function LocaleLayout({
 
   const attractionJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'TouristAttraction',
+    '@type': ['TouristAttraction', 'LandmarksOrHistoricalBuildings'],
     '@id': `${BASE_URL}/#attraction`,
     name: ATTRACTION_FULL_NAME,
     alternateName: [
@@ -137,6 +142,34 @@ export default async function LocaleLayout({
     },
     hasMap: MAPS_URL,
     sameAs: [MAPS_URL, GOVT_TOURISM_URL],
+    telephone: PHONE,
+    availableLanguage: ['el', 'en', 'zh'],
+    amenityFeature: [
+      {
+        '@type': 'LocationFeatureSpecification',
+        name: 'Free admission',
+        value: true,
+      },
+      {
+        '@type': 'LocationFeatureSpecification',
+        name: 'Free roadside parking',
+        value: true,
+      },
+      {
+        '@type': 'LocationFeatureSpecification',
+        name: 'Open 24 hours',
+        value: true,
+      },
+    ],
+    // Mirrors the Google Maps rating shown in the hero and the basic information
+    // block, so the structured data stays consistent with the visible page.
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: GOOGLE_RATING,
+      reviewCount: GOOGLE_REVIEW_COUNT,
+      bestRating: '5',
+      worstRating: '1',
+    },
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
