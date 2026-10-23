@@ -1,4 +1,4 @@
-import { setRequestLocale } from 'next-intl/server';
+import { setRequestLocale, getMessages } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import TableOfContents from '@/components/TableOfContents';
@@ -22,6 +22,15 @@ import FAQSection from '@/components/FAQSection';
 import MapEmbed from '@/components/MapEmbed';
 import SourcesSection from '@/components/SourcesSection';
 import Footer from '@/components/Footer';
+import TopicLinks from '@/components/TopicLinks';
+import {
+  buildAttractionJsonLd,
+  buildOrganizationJsonLd,
+  buildWebSiteJsonLd,
+  buildWebPageJsonLd,
+  buildFaqJsonLd,
+  SITE_URL,
+} from '@/lib/site';
 
 /** Refresh the server-rendered content (including the weather block) twice an hour. */
 export const revalidate = 1800;
@@ -33,9 +42,27 @@ export default async function HomePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const messages = (await getMessages()) as any;
+
+  const jsonLd = [
+    buildAttractionJsonLd(messages.meta.description),
+    buildFaqJsonLd(messages?.faq?.items || []),
+    buildOrganizationJsonLd(),
+    buildWebSiteJsonLd(),
+    buildWebPageJsonLd({
+      locale,
+      url: `${SITE_URL}/${locale}`,
+      title: messages.meta.title,
+      description: messages.meta.description,
+    }),
+  ];
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Header />
       <main>
         <Hero />
@@ -58,6 +85,7 @@ export default async function HomePage({
         <Reviews />
         <FAQSection />
         <MapEmbed />
+        <TopicLinks locale={locale} />
         <SourcesSection />
       </main>
       <Footer />

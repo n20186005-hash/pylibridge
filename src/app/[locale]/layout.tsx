@@ -6,22 +6,7 @@ import type { Metadata, Viewport } from 'next';
 
 const BASE_URL = 'https://pylibridge.com';
 const ATTRACTION_FULL_NAME = 'Arched Bridge of Portaikos River at Pyli';
-const ATTRACTION_SHORT_NAME = 'Arched Bridge of Portaikos River';
-const CITY = 'Pyli';
-const REGION = 'Thessaly';
-const COUNTRY = 'Greece';
-const POSTAL_CODE = '420 32';
-const STREET_ADDRESS = '22ο χλμ. της εθνικής οδού Τρικάλων - Άρτας';
-const LAT = 39.4605452;
-const LNG = 21.6004;
-const MAPS_URL = 'https://maps.app.goo.gl/bEtEhkN4D8ETgDJm6';
-const PHONE = '+30 2431 076647';
-const GOOGLE_RATING = '4.8';
-const GOOGLE_REVIEW_COUNT = '7417';
-const GOVT_TOURISM_URL = 'https://www.visitgreece.gr/';
-const HERO_IMAGE = `${BASE_URL}/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg`;
-const PUBLISHER_NAME = 'Pyli Bridge Cultural Heritage Project';
-const CONTENT_REVIEWED_DATE = '2026-08-31';
+const CONTENT_REVIEWED_DATE = '2026-10-23';
 
 const langToHtmlLang: Record<string, string> = { zh: 'zh-CN', en: 'en', el: 'el' };
 
@@ -48,7 +33,6 @@ export async function generateMetadata({
     description: messages.meta.description,
     applicationName: ATTRACTION_FULL_NAME,
     manifest: '/manifest.webmanifest',
-    // Icons are served via file conventions: /icon.jpg and /apple-icon.jpg (root app dir)
     appleWebApp: {
       capable: true,
       title: 'Pyli Bridge',
@@ -57,11 +41,9 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'el': elUrl,
-        // English is the widest-reaching edition and carries the most search
-        // demand, so it serves visitors whose language has no matching edition.
+        zh: zhUrl,
+        en: enUrl,
+        el: elUrl,
         'x-default': enUrl,
       },
     },
@@ -72,10 +54,10 @@ export async function generateMetadata({
       siteName: ATTRACTION_FULL_NAME,
       images: [
         {
-          url: HERO_IMAGE,
+          url: `${BASE_URL}/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg`,
           width: 1200,
           height: 630,
-          alt: `${ATTRACTION_FULL_NAME} in ${CITY}, ${REGION}, ${COUNTRY}`,
+          alt: `${ATTRACTION_FULL_NAME} in Pyli, Thessaly, Greece`,
         },
       ],
       locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'el_GR',
@@ -85,7 +67,7 @@ export async function generateMetadata({
       card: 'summary_large_image',
       title: messages.meta.title,
       description: messages.meta.description,
-      images: [HERO_IMAGE],
+      images: [`${BASE_URL}/gallery/arched-bridge-of-portaikos-river-at-pyli-1.jpg`],
     },
   };
 }
@@ -111,126 +93,6 @@ export default async function LocaleLayout({
   const messages = (await getMessages()) as any;
   const selfUrl = `${BASE_URL}/${locale}`;
 
-  const attractionJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': ['TouristAttraction', 'LandmarksOrHistoricalBuildings'],
-    '@id': `${BASE_URL}/#attraction`,
-    name: ATTRACTION_FULL_NAME,
-    alternateName: [
-      ATTRACTION_SHORT_NAME,
-      'Pyli Bridge',
-      'Τοξωτό Γεφύρι Πορταϊκού Ποταμού Πύλης',
-      `${CITY} ${ATTRACTION_FULL_NAME}`,
-    ],
-    description: messages.meta.description,
-    url: BASE_URL,
-    image: [HERO_IMAGE],
-    isAccessibleForFree: true,
-    publicAccess: true,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: STREET_ADDRESS,
-      addressLocality: CITY,
-      addressRegion: REGION,
-      postalCode: POSTAL_CODE,
-      addressCountry: 'GR',
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: LAT,
-      longitude: LNG,
-    },
-    hasMap: MAPS_URL,
-    sameAs: [MAPS_URL, GOVT_TOURISM_URL],
-    telephone: PHONE,
-    availableLanguage: ['el', 'en', 'zh'],
-    amenityFeature: [
-      {
-        '@type': 'LocationFeatureSpecification',
-        name: 'Free admission',
-        value: true,
-      },
-      {
-        '@type': 'LocationFeatureSpecification',
-        name: 'Free roadside parking',
-        value: true,
-      },
-      {
-        '@type': 'LocationFeatureSpecification',
-        name: 'Open 24 hours',
-        value: true,
-      },
-    ],
-    // Mirrors the Google Maps rating shown in the hero and the basic information
-    // block, so the structured data stays consistent with the visible page.
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: GOOGLE_RATING,
-      reviewCount: GOOGLE_REVIEW_COUNT,
-      bestRating: '5',
-      worstRating: '1',
-    },
-    openingHoursSpecification: [
-      {
-        '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-        opens: '00:00',
-        closes: '23:59',
-      },
-    ],
-  };
-
-  const organizationJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    '@id': `${BASE_URL}/#organization`,
-    name: PUBLISHER_NAME,
-    url: BASE_URL,
-    logo: `${BASE_URL}/icon.jpg`,
-    description: 'A non-profit, independent educational website documenting the history and visitor information of the Arched Bridge of Portaikos River at Pyli.',
-    sameAs: [MAPS_URL, GOVT_TOURISM_URL],
-  };
-
-  const webSiteJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    '@id': `${BASE_URL}/#website`,
-    name: PUBLISHER_NAME,
-    url: BASE_URL,
-    inLanguage: ['el', 'en', 'zh'],
-    publisher: { '@id': `${BASE_URL}/#organization` },
-  };
-
-  const webPageJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'WebPage',
-    '@id': `${selfUrl}#webpage`,
-    url: selfUrl,
-    name: messages.meta.title,
-    description: messages.meta.description,
-    inLanguage: langToHtmlLang[locale] || 'el',
-    datePublished: '2026-08-31',
-    dateModified: CONTENT_REVIEWED_DATE,
-    isPartOf: { '@id': `${BASE_URL}/#website` },
-    about: { '@id': `${BASE_URL}/#attraction` },
-    primaryImageOfPage: HERO_IMAGE,
-    publisher: { '@id': `${BASE_URL}/#organization` },
-  };
-
-  const faqItems: Array<{ q: string; a: string }> = messages?.faq?.items || [];
-  const faqJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: faqItems.map((item: { q: string; a: string }) => ({
-      '@type': 'Question',
-      name: item.q,
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: item.a,
-      },
-    })),
-  };
-
   return (
     <html lang={langToHtmlLang[locale] || 'el'} suppressHydrationWarning>
       <head>
@@ -249,26 +111,6 @@ export default async function LocaleLayout({
           }}
         />
         <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(attractionJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }}
-        />
-        <script
           dangerouslySetInnerHTML={{
             __html: `
               (function() {
@@ -283,9 +125,7 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-screen">
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
+        <NextIntlClientProvider messages={messages}>{children}</NextIntlClientProvider>
       </body>
     </html>
   );
